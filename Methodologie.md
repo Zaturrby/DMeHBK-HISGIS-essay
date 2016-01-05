@@ -30,15 +30,17 @@ Het is belangrijk om te realiseren dat ondanks de moeite die in digitale methode
 
 ### Criteria
 
-Er zijn uiteraard ook specifieke kaders waarmee digitale gereedschappen moeten worden gemeten. Allereerst kan er terechte kritiek geuit worden op met welke eenheden de samenleving beschreven wordt. In tegenstelling tot traditionele bronnen die vaak zelf al rijk en divers zijn wordt de samenleving met data vaak aan de hand van enkele eenheiden beschreven. Data is geen gegeven, maar zij is genomen van de werkelijkheid: zij is ‘capta’.[^7]Deze eenheden moeten goed gewogen worden op hun waarde. Daarnaast moeten de transformaties en toevoegingen aan data toegankelijk en reproduceerbaar zijn. Vastlegging van deze stappen in scripts is onontbeerlijk, beschrijvingen van de bediening van interfaces belemmeren reproductie. Het doel van interfaces is om stappen aan het oog van de gebruiker te onttrekken en die stappen zijn mogelijk waardebetrokkene. Het moet duidelijk zijn wat er onder de motorkap gebeurd en dat is bij interfaces vaak niet herleidbaar. Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^8]Daarnaast is een gezond verstand onontbeerlijk. Een kritische houding waarin je geloofwaardigheid, nauwkeurigheid en redelijkheid afweegt hoort bij al het geesteswetenschappelijke werk.[^9]
+Er zijn uiteraard ook specifieke kaders waarmee digitale gereedschappen moeten worden gemeten. Allereerst kan er terechte kritiek geuit worden op met welke eenheden de samenleving beschreven wordt. In tegenstelling tot traditionele bronnen die vaak zelf al rijk en divers zijn wordt de samenleving met data vaak aan de hand van enkele eenheiden beschreven. Data is geen gegeven, maar zij is genomen van de werkelijkheid: zij is ‘capta’.[^7]Deze eenheden moeten goed gewogen worden op hun waarde. Een goed voorbeeld van een enkele eenheid en het perspectief dat dat bied is de visualisatie van kunstenaarslevens in het blad Nature.[^8]
 
-Voor kaarten zijn er bovendien domein gerelateerde problemen. Projecties en oriëntatie van kaarten bepalen de beeldvorming enorm. Zoals … liet zien met Africa en … met India in vergelijking tot Europa.[^10][^11]  Daarnaast zijn kaarten en taal verweven, in welke taal zet je plaatsnamen neer: Spreken we van Batavia of Jakarta? Heeft dat een performatief effect, is het post-kolonialisme? Kaarten zijn daarnaast sterk geabstraheerd van de werkelijkheid. De metrokaart van Londen is hier een goed voorbeeld van. Welke elementen op een kaart laat je zwaarder wegen en wat voor een effect heeft dat op de lezer? Daarnaast spelen schaal en detail een intrinsiek spel met elkaar. Bij digitale kaarten is inzoomen een gewoonte geworden, maar er zitten hier ook interpretatieve consequenties aan? Technisch ben je gelimiteerd tot het detail dat in je data zit, maar laat je de gebruiker voorbij het detail van de data zoomen dan ontstaat er een grote leegte. Als je het bereik en kwaliteit van de data door en door kent is dit geen probleem. Heeft wat je niet laat zien of kan laten zien ook effect?
+ Daarnaast moeten de transformaties en toevoegingen aan data toegankelijk en reproduceerbaar zijn. Vastlegging van deze stappen in scripts is onontbeerlijk, beschrijvingen van de bediening van interfaces belemmeren reproductie. Het doel van interfaces is om stappen aan het oog van de gebruiker te onttrekken en die stappen zijn mogelijk waardebetrokkene. Het moet duidelijk zijn wat er onder de motorkap gebeurd en dat is bij interfaces vaak niet herleidbaar. Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9]Daarnaast is een gezond verstand onontbeerlijk. Een kritische houding waarin je geloofwaardigheid, nauwkeurigheid en redelijkheid afweegt hoort bij al het geesteswetenschappelijke werk.[^10]
+
+Voor kaarten zijn er bovendien domein gerelateerde problemen. Projecties en oriëntatie van kaarten bepalen de beeldvorming enorm. Zoals … liet zien met Africa en … met India in vergelijking tot Europa.[^11][^12]  Daarnaast zijn kaarten en taal verweven, in welke taal zet je plaatsnamen neer: Spreken we van Batavia of Jakarta? Heeft dat een performatief effect, is het post-kolonialisme? Kaarten zijn daarnaast sterk geabstraheerd van de werkelijkheid. De metrokaart van Londen is hier een goed voorbeeld van. Welke elementen op een kaart laat je zwaarder wegen en wat voor een effect heeft dat op de lezer? Daarnaast spelen schaal en detail een intrinsiek spel met elkaar. Bij digitale kaarten is inzoomen een gewoonte geworden, maar er zitten hier ook interpretatieve consequenties aan? Technisch ben je gelimiteerd tot het detail dat in je data zit, maar laat je de gebruiker voorbij het detail van de data zoomen dan ontstaat er een grote leegte. Als je het bereik en kwaliteit van de data door en door kent is dit geen probleem. Heeft wat je niet laat zien of kan laten zien ook effect?
 
 Hoewel onderzoeken op dezelfde manier moeten worden gewogen is daarentegen wel heel gemakkelijk om Digitale Humanisten de grond onder de voeten weg te schieten vanuit geesteswetenschappelijk perspectief. Zij hebben vele malen minder tijd voor hun studies en schrijfvaardigheden dan traditionele humanisten. Ook hun onderzoeksprojecten zijn vele malen omvangrijker. Maar hoewel het geesteswetenschappelijk resultaat vergelijkbaar zal zijn, is de maatschappelijke impact van digitale humanisten vele malen groter. De visualisaties en tools zijn gemakkelijk te valoriseren. Traditionele geesteswetenschappers isoleren zich doordat zij zichzelf en hun standpunten niet effectief autonoom kunnen profileren in moderne media als het internet. Daarnaast vechten traditionele humanisten vechten voor een sterk beperkte hoeveelheid banen terwijl goed opgeleide digitale humanisten overal inzetbaar zijn. Technologie is een belangrijk onderdeel van de moderne samenleving.
 
 ### Sub-conclusie
 
-De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele kennis streeft of maatschappelijke impact. Digitale humanisten hebben goud in de handen met hun maatschappelijk relevante vaardigheden, traditionele wetenschappers met hun maatschappijkritische theorieën. Nu nog samen in één pakket: De waarde ligt in hybriditeit.[^12] We moeten stoppen met ons te richten op de legitimatie van digitale methoden, maar ons richten op de uitvoering daarvan en de resultaten die ze kunnen genereren.[^13]De investering in de digitale methoden betaalt zich ruimschoots terug in maatschappelijke impact en inzetbaarheid. Dit rechtvaardigt de investering en maakt de Digital Humanities haalbaar.
+De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele kennis streeft of maatschappelijke impact. Digitale humanisten hebben goud in de handen met hun maatschappelijk relevante vaardigheden, traditionele wetenschappers met hun maatschappijkritische theorieën. Nu nog samen in één pakket: De waarde ligt in hybriditeit.[^13] We moeten stoppen met ons te richten op de legitimatie van digitale methoden, maar ons richten op de uitvoering daarvan en de resultaten die ze kunnen genereren.[^14]De investering in de digitale methoden betaalt zich ruimschoots terug in maatschappelijke impact en inzetbaarheid. Dit rechtvaardigt de investering en maakt de Digital Humanities haalbaar.
 
 [^1]:	deep maps en design
 
@@ -54,14 +56,16 @@ De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele ke
 
 [^7]:	 Tekst over capta
 
-[^8]:	Git
+[^8]:	nature vis
 
-[^9]:	CARS
+[^9]:	Git
 
-[^10]:	Africa auteur
+[^10]:	CARS
 
-[^11]:	India auteur
+[^11]:	Africa auteur
 
-[^12]:	Tekstje aan het begin van het college noemt deze term
+[^12]:	India auteur
 
-[^13]:	Boonstra.
+[^13]:	Tekstje aan het begin van het college noemt deze term
+
+[^14]:	Boonstra.
