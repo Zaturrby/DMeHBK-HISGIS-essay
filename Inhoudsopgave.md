@@ -6,4 +6,3 @@
 4. Contextualisatie
 5. Toepassing
 6. Conclusie
-
