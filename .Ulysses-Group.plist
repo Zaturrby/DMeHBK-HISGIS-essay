@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Historische Geografische Interfaces.md</string>
+		</array>
+		<array>
+			<string>Inhoudsopgave.md</string>
+		</array>
+		<array>
+			<string>Abstract.md</string>
+		</array>
+		<array>
+			<string>Inleiding.md</string>
+		</array>
+		<array>
+			<string>Methodologie.md</string>
+		</array>
+		<array>
+			<string>Toepassingen.md</string>
+		</array>
+		<array>
+			<string>Conclusie.md</string>
+		</array>
+		<array>
+			<string>drafts - inleiding.md</string>
+		</array>
+		<array>
+			<string>drafts - abstracts.md</string>
+		</array>
+		<array>
+			<string>drafts - methodologische context.md</string>
+		</array>
+		<array>
+			<string>draft - proces.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
