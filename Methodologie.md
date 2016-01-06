@@ -1,5 +1,19 @@
 ## Methodologie
 
+{ Opdeling in kritisch en meta-kritisch deel }
+
+{ Kritisch deel: }
+{ Anachronistische kritiek }
+{ Datakritiek }
+{ Implementatiekritiek }
+{ Gebruikerskritiek }
+{ Wetenschappelijke kritiek }
+{ Anachronisme }
+{ Focus op patronen ipv. narratief }
+
+{ Meta-kritische deel: }
+{ DH vs Trad }
+
 ### Sub-inleiding
 
 Digitale geesteswetenschappen worden vaak gepositioneerd als anders dan de traditionele geesteswetenschappen. Niets is minder waar: Een getal of visualisatie zonder narratief of beschrijvende taal is vrijwel betekenisloos. Juist de versmelting van de talige traditionele methoden en de kwantitatief of visueel georiënteerde digitale methodologieën creëren het onderscheid tussen de Digital Humanities en de computerwetenschappen. Traditionele methoden hebben een sterke wisselwerking met de specifiek bestudeerde objecten maar ook met verdiepende filosofieën. Maar de implementatie was meestal uniform: een narratief uitgezet in taal. Digital Humanities voegt hier complexe dimensies aan toe met statistiek, visualisaties en interfaces. Dat deze methoden kunnen toevoegen aan de vakgebieden is niet in twijfel, het grootste probleem is de benodigdheden voor succesvol resultaat. Wat is haalbaar?
