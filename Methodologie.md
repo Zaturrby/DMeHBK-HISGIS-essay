@@ -19,12 +19,12 @@
 { Anachronisme }
 
 { Meta-kritische deel: }
-{ DH vs Trad }
+{ Digitaal vs Traditioneel }
 { Patronen vs. narratief }
-{ Visualisatie vs Taal }
+{ Visualisatie vs beschrijving -\> Taal }
 { Data-driven onderzoek vs Question-driven }
 { Kennisdoelen } 
-{ Bildung vs Universele Kennis } 
+{ Bildung vs Maatschappij vs Universele Kennis } 
 
 
 ### Sub-inleiding
