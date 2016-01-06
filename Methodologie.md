@@ -34,6 +34,12 @@
 { HTML, CSS, Javascript } 
 { Datastructuren }
 { Shell Scripting }
+{ Voorbeelden opnieuw bruikbare tools met onderwerp}
+{ ErfGeo: Toponiemendata }
+{ Geotagging }
+{ Digital Atlas o/t Roman Empire: Basiskaarten } 
+{ Georeferencing }
+{ Vectorising }
 { Documentatie }
 { Optimalisatie }
 { Wrap in tests }
@@ -41,12 +47,7 @@
 { Versiecontrole }
 { Git, SVN, Mercurial } 
 { Archivering } 
-{ Voorbeelden opnieuw bruikbare tools met onderwerp}
-{ ErfGeo: Toponiemendata }
-{ Geotagging }
-{ Digital Atlas o/t Roman Empire: Basiskaarten } 
-{ Georeferencing }
-{ Vectorising }
+
 { Wetenschappelijke kritiek: }
 { Doelstelling en Bereik: }
 { Deep Map }
@@ -81,9 +82,96 @@
 { Beschikbaarheid en stabiliteit tools }
 { Tools met onderwerp vs. zonder }
 
+
 ## Methodologie 
 
-### 
+### Kritiek
+
+#### Data
+
+##### Selectie 
+
+{ Data is Capta }
+{ Selectiecriteria en beschikbaarheid } 
+{ Autoriteit }
+{ C.A.R.S }
+{ Gezond verstand }
+
+##### Opschoning
+
+{ Dirty Data }
+{ Harmonisatie en linkages }
+{ Meta-data en ontologiën }
+{ Geladenheid meta-data en ontologiën }
+
+##### Hergebruik
+
+{ Scheiding Data van Implementatie }
+{ Hergebruik vanuit data perspectief: }
+{ Beschikbaarheid }
+{ Open Data }
+{ API’s } 
+
+#### Implementatie
+
+##### Transformaties 
+
+{ Data transformaties }
+{ Hergebruik vanuit implementatie perspectief: }
+{ Reproduceerbaarheid: }
+{ Scripts vs GUI }
+{ Vrijheid van expressie }
+{ Iedere knop is al geïnterpreteerd }
+{ tools met onderwerp vs tools zonder onderwerp }
+{ Progammeervaardigheden vs. GUI’s }
+
+##### Design
+
+{ Design en User Experience: }
+{ Exploratieve mogelijkheid vs Begeleiding }
+
+
+##### Voorbeelden voor de Spatial Humanities
+
+{ Voorbeelden herbruikbare tools zonder onderwerp}
+{ Mapnik }
+{ GDAL }
+{ PostgreSQL, PostGIS, pgRouting, PL/pgSQL }
+{ Leaflet }
+{ D3 }
+{ HTML, CSS, Javascript } 
+{ Datastructuren }
+{ Shell Scripting }
+
+##### Voorbeelden van tools met onderwerp voor de Spatial Humanities
+
+{ Voorbeelden opnieuw bruikbare tools met onderwerp}
+{ ErfGeo: Toponiemendata }
+{ Geotagging }
+{ Digital Atlas o/t Roman Empire: Basiskaarten } 
+{ Georeferencing }
+{ Vectorising }
+
+##### Voorwaarden voor hergebruik
+
+{ Documentatie }
+{ Optimalisatie }
+{ Wrap in tests }
+{ Toolbuilding }
+{ Versiecontrole }
+{ Git, SVN, Mercurial } 
+{ Archivering } 
+
+
+#### Wetenschappelijk 
+
+### Meta-Kritiek
+
+#### Proces
+
+#### Kennisdoelen
+
+#### Haalbaarheid
 
 
 
