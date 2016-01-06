@@ -146,7 +146,6 @@ Het uiteindelijke doel van een onderzoek moet uiteindelijk echter niet een visua
 
 Het is belangrijk om te realiseren dat ondanks de moeite die in digitale methoden gaan zitten het eindresultaat uiteindelijk onder dezelfde voorwaarden gewogen moet worden. Visualisaties en interfaces zijn slechts een tussenstap tussen de bron of data en de onderzoekstekst. Als we bijvoorbeeld willen uitzoeken wie of wat het meest bepalend is geweest voor de Amsterdamse architectuur in de 16e eeuw is het zeer voordelig dat we een kaart van Amsterdam omstreeks 1500 en 1600 op het scherm tevoorschijn kunnen halen, en die met elkaar kunnen vergelijken. Het liefst algoritmisch om ons oog al te leiden naar de verschillen. Vervolgens moet de technologie losgelaten worden en de disciplinaire bril opgezet worden. In de vergelijking zijn redeneringen van agency en ongelijkheden mogelijk zoals sociaal-economische, feministische of post-kolonialistische. Eveneens perspectieven zoals het semiotische zijn erbij gediend, want de veranderingen in de objecten zijn symptomen van de contemporaine discussie en betekenis.[^13] Dit narratief, deze tekst, is het uiteindelijke onderzoeksresultaat, niet de visualisatie of interface.
 
-
 #### Kennisdoelen
 
 { Maatschappelijke impact vs Geesteswetenschappelijke }
