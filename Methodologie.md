@@ -1,87 +1,3 @@
-## Methodologie
-
-{ Opdeling in kritisch en meta-kritisch deel }
-
-{ Kritisch deel: }
-{ Datakritiek: }
-{ Data is Capta }
-{ Selectiecriteria en beschikbaarheid } 
-{ Autoriteit }
-{ Dirty Data }
-{ Harmonisatie en linkages }
-{ Meta-data en ontologiën }
-{ Geladenheid meta-data en ontologiën }
-{ Scheiding Data van Implementatie }
-{ Hergebruik vanuit data perspectief: }
-{ Beschikbaarheid }
-{ Open Data } 
-{ Implementatiekritiek: }
-{ Data transformaties }
-{ Design en User Experience: }
-{ Exploratieve mogelijkheid vs Begeleiding }
-{ Hergebruik vanuit implementatie perspectief: }
-{ Reproduceerbaarheid: }
-{ Scripts vs GUI }
-{ Vrijheid van expressie }
-{ Iedere knop is al geïnterpreteerd }
-{ Progammeervaardigheden vs. GUI’s }
-{ Voorbeelden herbruikbare tools }
-{ Mapnik }
-{ GDAL }
-{ PostgreSQL, PostGIS, pgRouting, PL/pgSQL }
-{ Leaflet }
-{ D3 }
-{ HTML, CSS, Javascript } 
-{ Datastructuren }
-{ Shell Scripting }
-{ Voorbeelden opnieuw bruikbare tools met onderwerp}
-{ ErfGeo: Toponiemendata }
-{ Geotagging }
-{ Digital Atlas o/t Roman Empire: Basiskaarten } 
-{ Georeferencing }
-{ Vectorising }
-{ Documentatie }
-{ Optimalisatie }
-{ Wrap in tests }
-{ Toolbuilding }
-{ Versiecontrole }
-{ Git, SVN, Mercurial } 
-{ Archivering } 
-
-{ Wetenschappelijke kritiek: }
-{ Doelstelling en Bereik: }
-{ Deep Map }
-{ Kaartenkritiek: }
-{ Spatial Humanities }
-{ Beeldvorming }
-{ Namen en postkolonialisme }
-{ Hergebruik vanuit interpretatief perspectief: }
-{ Onzekerheid, ambiguïteit }
-{ Anachronisme }
-
-{ Meta-kritische deel: }
-{ Proces }
-{ Data-driven onderzoek vs Question-driven }
-{ Thinking through making }
-{ Consensusvorming } 
-{ Prototyping }
-{ Digitaal vs Traditioneel }
-{ Toevoeging statistiek, visualisatie en interfaces }
-{ Tools en patronen vs. Narratief }
-{ Visualisatie vs beschrijving -\> Taal }
-{ Voorbeeld }
-{ Architectuur }
-{ Maatschappijkritiek vs Universele Kennis }
-{ Kennisdoelen }
-{ Maatschappelijke impact vs Geesteswetenschappelijke }
-{ Maatschappelijk relevante vaardigheden vs Maatschappijkritische theorieën }
-{ Investering in onderwijs en bildung }
-{ Maatschappelijke impact betaald investering }
-{ Hybridisteit }	
-{ Haalbaarheid en rijkheid }
-{ Beschikbaarheid en stabiliteit tools }
-{ Tools met onderwerp vs. zonder }
-
 
 ## Methodologie 
 
@@ -124,19 +40,18 @@
 { Iedere knop is al geïnterpreteerd }
 { tools met onderwerp vs tools zonder onderwerp }
 { Progammeervaardigheden vs. GUI’s }
+{ Beschikbaarheid en stabiliteit tools }
 
-##### Design
+##### Design en User Experience
 
-{ Design en User Experience: }
 { Exploratieve mogelijkheid vs Begeleiding }
 
 
-##### Voorbeelden voor de Spatial Humanities
+##### Voorbeelden van tools zonder onderwerp voor de Spatial Humanities
 
-{ Voorbeelden herbruikbare tools zonder onderwerp}
 { Mapnik }
 { GDAL }
-{ PostgreSQL, PostGIS, pgRouting, PL/pgSQL }
+{ PostgreSQL, PostGIS, pgRouting, PL/pgSQL }		
 { Leaflet }
 { D3 }
 { HTML, CSS, Javascript } 
@@ -145,7 +60,6 @@
 
 ##### Voorbeelden van tools met onderwerp voor de Spatial Humanities
 
-{ Voorbeelden opnieuw bruikbare tools met onderwerp}
 { ErfGeo: Toponiemendata }
 { Geotagging }
 { Digital Atlas o/t Roman Empire: Basiskaarten } 
@@ -162,18 +76,51 @@
 { Git, SVN, Mercurial } 
 { Archivering } 
 
-
 #### Wetenschappelijk 
+
+##### Doelstelling en bereik
+
+{ Deep Map }
+
+##### Kaartenkritiek en traditionele ruimtelijke interpretaties
+
+{ Spatial Humanities }
+{ Beeldvorming }
+{ Namen en postkolonialisme }
+
+##### Hergebruik
+
+{ Onzekerheid, ambiguïteit }
+
+##### Anachronismen
+
+{ Anachronisme }
 
 ### Meta-Kritiek
 
 #### Proces
 
+{ Data-driven onderzoek vs Question-driven }
+{ Thinking through making }
+{ Consensusvorming } 
+{ Prototyping }
+
+#### Digitaal vs Traditioneel
+
+{ Toevoeging statistiek, visualisatie en interfaces }
+{ Tools en patronen vs. Narratief }
+{ Visualisatie vs beschrijving -\> Taal }
+{ Voorbeeld }
+{ Architectuur }
+
 #### Kennisdoelen
 
-#### Haalbaarheid
-
-
+{ Maatschappelijke impact vs Geesteswetenschappelijke }
+{ Maatschappelijk relevante vaardigheden vs Maatschappijkritische theorieën }
+{ Investering in onderwijs en bildung }
+{ Maatschappelijke impact betaald investering }
+{ Hybriditeit }
+{ Stoppen met schrijven beginnen met doen }
 
 
 
