@@ -24,7 +24,7 @@ Daarnaast is een gezond verstand onontbeerlijk. Een kritische houding waarin je 
 { Meta-data en ontologiën }
 { Geladenheid meta-data en ontologiën }
 
-Er zijn wel mogelijkheden tot hergebruik van sommige tools met een onderwerp daarin, maar er moet zorgvuldig afgewogen worden wat opnieuw bruikbaar is. Het is duidelijk en vruchtbaar gebleken om data te digitaliseren en van meta-data te voorzien, het liefst met ontologiën. Deze scheiding tussen data en implementatie moet gewaarborgd blijven. Dit is een belangrijk criterium voor een reproduceerbaarheid van het onderzoek. Een applicatie mag niet in de kantlijn data veranderen of toevoegen en dat sluipt er heel snel in. Daarnaast is het hoogstwaarschijnlijk dat de implementatie in de toekomst niet meer werkt. De data heeft daarentegen een veel hogere levensspan. Open data is hierbij wel een belangrijke voorwaarde; van zowel gestructureerde data als teksten en afbeeldingen zoals kaarten en kunstwerken. De volledige data moet ten alle tijden los van de applicatie beschikbaar zijn. 
+Het is duidelijk en vruchtbaar gebleken om data te digitaliseren en van meta-data te voorzien, het liefst met ontologiën. 
 
 Dit probleem is goed zichtbaar in de rijkheid van de specifieke gebieden van de Digital Humanities. De historische geografische informatie wetenschappen zijn hier een van. De rijkheid van dit vakgebied wordt duidelijk wanneer je NASA-documentatie moet lezen om een relatief kleine taak uit te voeren. Er zitten oneindig veel lagen in een rijke historische kaart. Het begint bij de data, waarbij beschikbaarheid, harmonisatie en onzekerheid een grote rol spelen. Vervolgens moet de data gevisualiseerd worden met oog op de consequenties die dat heeft voor de lezer. Als laatste moet exploratie en verantwoord gebruik mogelijk gemaakt worden door interfaces. Aan elk van deze lagen kan eindeloos veel tijd worden besteed.
 
@@ -35,6 +35,8 @@ Dit probleem is goed zichtbaar in de rijkheid van de specifieke gebieden van de 
 { Beschikbaarheid }
 { Open Data }
 { API’s } 
+
+ Deze scheiding tussen data en implementatie moet gewaarborgd blijven. Dit is een belangrijk criterium voor een reproduceerbaarheid van het onderzoek. Een applicatie mag niet in de kantlijn data veranderen of toevoegen en dat sluipt er heel snel in. Daarnaast is het hoogstwaarschijnlijk dat de implementatie in de toekomst niet meer werkt. De data heeft daarentegen een veel hogere levensspan. Open data is hierbij wel een belangrijke voorwaarde; van zowel gestructureerde data als teksten en afbeeldingen zoals kaarten en kunstwerken. De volledige data moet ten alle tijden los van de applicatie beschikbaar zijn. 
 
 #### Implementatie
 
@@ -94,6 +96,8 @@ Specifiek voor historische geografie zijn toponiemen-data en  basiskaarten per t
 { Archivering } 
 
 Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9]
+
+Er zijn wel mogelijkheden tot hergebruik van sommige tools met een onderwerp daarin, maar er moet zorgvuldig afgewogen worden wat opnieuw bruikbaar is. 
 
 #### Wetenschappelijk 
 
@@ -158,29 +162,7 @@ Hoewel onderzoeken op dezelfde manier moeten worden gewogen is daarentegen wel h
 
 De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele kennis streeft of maatschappelijke impact. Digitale humanisten hebben goud in de handen met hun maatschappelijk relevante vaardigheden, traditionele wetenschappers met hun maatschappijkritische theorieën. Nu nog samen in één pakket: De waarde ligt in hybriditeit.[^14] We moeten stoppen met ons te richten op de legitimatie van digitale methoden, maar ons richten op de uitvoering daarvan en de resultaten die ze kunnen genereren.[^15]De investering in de digitale methoden betaalt zich ruimschoots terug in maatschappelijke impact en inzetbaarheid. Dit rechtvaardigt de investering en maakt de Digital Humanities haalbaar.
 
-
----- 
-
-{ Oude structuur }
-
-### Sub-inleiding
-
-### Tools: met of zonder onderwerp?
-
-### Voorbeelden van tools voor HISGIS  
-
-### Hergebruik
- 
-### Narratief
-
-### Criteria
-
-### Sub-conclusie
-
-
-
----- 
-
+----  
 
 [^1]:	Tekst over capta
 
