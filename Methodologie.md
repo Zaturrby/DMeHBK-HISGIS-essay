@@ -5,21 +5,24 @@
 { Kritisch deel: }
 { Datakritiek: }
 { Transformaties }
-{ Reproduceerbaarheid }
+{ Reproduceerbaarheid: scripts }
 { Scheiding Data van Implementatie }
 { Implementatiekritiek: }
-{ Hergebruik }
-{  }
+{ Hergebruik: ‘Tooling’ }
+{ Documentatie }
+{ Optimalisatie }
 { Gebruikerskritiek: }
-{  } 
+{ Design en User Experience }
+{ Onzekerheid, ambiguïteit } 
 { Kaartenkritiek } 
 { Wetenschappelijke kritiek: }
 { Anachronisme }
-{ Focus op patronen ipv. narratief }
 
 { Meta-kritische deel: }
 { DH vs Trad }
+{ Patronen vs. narratief }
 { Visualisatie vs Taal }
+{ Data-driven onderzoek vs Question-driven }
 { Kennisdoelen } 
 { Bildung vs Universele Kennis } 
 
