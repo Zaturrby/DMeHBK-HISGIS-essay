@@ -4,6 +4,7 @@
 
 { Kritisch deel: }
 { Datakritiek: }
+{ Data is Capta }
 { Selectiecriteria en beschikbaarheid } 
 { Autoriteit }
 { Dirty Data }
@@ -15,36 +16,70 @@
 { Beschikbaarheid }
 { Open Data } 
 { Implementatiekritiek: }
-{ Transformaties }
+{ Data transformaties }
 { Design en User Experience: }
 { Exploratieve mogelijkheid vs Begeleiding }
 { Hergebruik vanuit implementatie perspectief: }
 { Reproduceerbaarheid: }
 { Scripts vs GUI }
+{ Vrijheid van expressie }
+{ Iedere knop is al geïnterpreteerd }
+{ Progammeervaardigheden vs. GUI’s }
+{ Voorbeelden herbruikbare tools }
+{ Mapnik }
+{ GDAL }
+{ PostgreSQL, PostGIS, pgRouting, PL/pgSQL }
+{ Leaflet }
+{ D3 }
+{ HTML, CSS, Javascript } 
+{ Datastructuren }
+{ Shell Scripting }
 { Documentatie }
 { Optimalisatie }
+{ Wrap in tests }
+{ Toolbuilding }
 { Versiecontrole }
+{ Git, SVN, Mercurial } 
 { Archivering } 
+{ Voorbeelden opnieuw bruikbare tools met onderwerp}
+{ ErfGeo: Toponiemendata }
+{ Geotagging }
+{ Digital Atlas o/t Roman Empire: Basiskaarten } 
+{ Georeferencing }
+{ Vectorising }
 { Wetenschappelijke kritiek: }
 { Doelstelling en Bereik: }
 { Deep Map }
 { Kaartenkritiek: }
 { Spatial Humanities }
+{ Beeldvorming }
+{ Namen en postkolonialisme }
+{  }
 { Hergebruik vanuit interpretatief perspectief: }
 { Onzekerheid, ambiguïteit }
 { Anachronisme }
 
 { Meta-kritische deel: }
+{ Proces }
+{ Data-driven onderzoek vs Question-driven }
+{ Thinking through making }
+{ Prototyping }
 { Digitaal vs Traditioneel }
 { Toevoeging statistiek, visualisatie en interfaces }
 { Patronen vs. narratief }
 { Visualisatie vs beschrijving -\> Taal }
-{ Data-driven onderzoek vs Question-driven }
+{ Voorbeeld }
+{ Architectuur }
+{ Consensusvorming } 
 { Kennisdoelen } 
-{ Bildung vs Maatschappij vs Universele Kennis }
-{ Progammeervaardigheden vs. GUI’s }
-{ Iedere knop ís al geïnterpreteerd }
-{ Haalbaarheid en Rijkheid }
+{ Maatschappijkritiek vs Universele Kennis }
+{ Onderwijs }
+{ Bildung }
+{ Maatschappelijke impact vs Geesteswetenschappelijke }
+{ Maatschappelijk relevante vaardigheden vs Maatschappijkritische theorieën }
+{ Maatschappelijke impact betaald investering }
+{ Hybridisteit }	
+{ Haalbaarheid en rijkheid }
 { Beschikbaarheid en stabiliteit tools }
 { Tools met onderwerp vs. zonder }
 
@@ -81,7 +116,7 @@ Het is belangrijk om te realiseren dat ondanks de moeite die in digitale methode
 
 Er zijn uiteraard ook specifieke kaders waarmee digitale gereedschappen moeten worden gemeten. Allereerst kan er terechte kritiek geuit worden op met welke eenheden de samenleving beschreven wordt. In tegenstelling tot traditionele bronnen die vaak zelf al rijk en divers zijn wordt de samenleving met data vaak aan de hand van enkele eenheiden beschreven. Data is geen gegeven, maar zij is genomen van de werkelijkheid: zij is ‘capta’.[^7]Deze eenheden moeten goed gewogen worden op hun waarde. Een goed voorbeeld van een enkele eenheid en het perspectief dat het biedt is de visualisatie van kunstenaarslevens in het blad Nature.[^8]
 
- Daarnaast moeten de transformaties en toevoegingen aan data toegankelijk en reproduceerbaar zijn. Vastlegging van deze stappen in scripts is onontbeerlijk, beschrijvingen van de bediening van interfaces belemmeren reproductie. Het doel van interfaces is om stappen aan het oog van de gebruiker te onttrekken en die stappen zijn mogelijk waardebetrokkene. Het moet duidelijk zijn wat er onder de motorkap gebeurd en dat is bij interfaces vaak niet herleidbaar. Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9]Daarnaast is een gezond verstand onontbeerlijk. Een kritische houding waarin je geloofwaardigheid, nauwkeurigheid en redelijkheid afweegt hoort bij al het geesteswetenschappelijke werk.[^10]
+Daarnaast moeten de transformaties en toevoegingen aan data toegankelijk en reproduceerbaar zijn. Vastlegging van deze stappen in scripts is onontbeerlijk, beschrijvingen van de bediening van interfaces belemmeren reproductie. Het doel van interfaces is om stappen aan het oog van de gebruiker te onttrekken en die stappen zijn mogelijk waardebetrokkene. Het moet duidelijk zijn wat er onder de motorkap gebeurd en dat is bij interfaces vaak niet herleidbaar. Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9]Daarnaast is een gezond verstand onontbeerlijk. Een kritische houding waarin je geloofwaardigheid, nauwkeurigheid en redelijkheid afweegt hoort bij al het geesteswetenschappelijke werk.[^10]
 
 Voor kaarten zijn er bovendien domein gerelateerde problemen. Projecties en oriëntatie van kaarten bepalen de beeldvorming enorm. Zoals … liet zien met Africa en … met India in vergelijking tot Europa.[^11][^12] Daarnaast zijn kaarten en taal verweven, in welke taal zet je plaatsnamen neer: Spreken we van Batavia of Jakarta? De keuze heeft een performatief effect en we moeten hierbij waken voor post-kolonialisme. Kaarten zijn daarnaast sterk geabstraheerd van de werkelijkheid. De metrokaart van Londen is hier een goed voorbeeld van.[^13] De beslissing om bepaalde elementen dikker of kleurrijker te maken heeft effect. Het design heeft effect op lezen, zowel visueel als in User Experience Design (UX-Design). Schaalknoppen zijn hier een goed voorbeeld van. Schaal en detail hebben grote invloed op de betekenis. Technisch is elke vergroting mogelijk, maar als het mogelijk is om voorbij het detail van de data in te zoomen dan ontstaat er een grote leegte. Voor gebruikers die het bereik van de data niet kennen kan deze leegte beeldbepalend zijn.
 
