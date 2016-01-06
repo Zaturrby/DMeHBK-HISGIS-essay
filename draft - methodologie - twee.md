@@ -1,95 +1,4 @@
-## Methodologie
-
-{ Opdeling in kritisch en meta-kritisch deel }
-
-{ Kritisch deel: }
-{ Datakritiek: }
-{ Data is Capta }
-{ Selectiecriteria en beschikbaarheid } 
-{ Autoriteit }
-{ Dirty Data }
-{ Harmonisatie en linkages }
-{ Meta-data en ontologiën }
-{ Geladenheid meta-data en ontologiën }
-{ Scheiding Data van Implementatie }
-{ Hergebruik vanuit data perspectief: }
-{ Beschikbaarheid }
-{ Open Data } 
-{ Implementatiekritiek: }
-{ Data transformaties }
-{ Design en User Experience: }
-{ Exploratieve mogelijkheid vs Begeleiding }
-{ Hergebruik vanuit implementatie perspectief: }
-{ Reproduceerbaarheid: }
-{ Scripts vs GUI }
-{ Vrijheid van expressie }
-{ Iedere knop is al geïnterpreteerd }
-{ Progammeervaardigheden vs. GUI’s }
-{ Voorbeelden herbruikbare tools }
-{ Mapnik }
-{ GDAL }
-{ PostgreSQL, PostGIS, pgRouting, PL/pgSQL }
-{ Leaflet }
-{ D3 }
-{ HTML, CSS, Javascript } 
-{ Datastructuren }
-{ Shell Scripting }
-{ Documentatie }
-{ Optimalisatie }
-{ Wrap in tests }
-{ Toolbuilding }
-{ Versiecontrole }
-{ Git, SVN, Mercurial } 
-{ Archivering } 
-{ Voorbeelden opnieuw bruikbare tools met onderwerp}
-{ ErfGeo: Toponiemendata }
-{ Geotagging }
-{ Digital Atlas o/t Roman Empire: Basiskaarten } 
-{ Georeferencing }
-{ Vectorising }
-{ Wetenschappelijke kritiek: }
-{ Doelstelling en Bereik: }
-{ Deep Map }
-{ Kaartenkritiek: }
-{ Spatial Humanities }
-{ Beeldvorming }
-{ Namen en postkolonialisme }
-{ Hergebruik vanuit interpretatief perspectief: }
-{ Onzekerheid, ambiguïteit }
-{ Anachronisme }
-
-{ Meta-kritische deel: }
-{ Proces }
-{ Data-driven onderzoek vs Question-driven }
-{ Thinking through making }
-{ Consensusvorming } 
-{ Prototyping }
-{ Digitaal vs Traditioneel }
-{ Toevoeging statistiek, visualisatie en interfaces }
-{ Tools en patronen vs. Narratief }
-{ Visualisatie vs beschrijving -\> Taal }
-{ Voorbeeld }
-{ Architectuur }
-{ Maatschappijkritiek vs Universele Kennis }
-{ Kennisdoelen }
-{ Maatschappelijke impact vs Geesteswetenschappelijke }
-{ Maatschappelijk relevante vaardigheden vs Maatschappijkritische theorieën }
-{ Investering in onderwijs en bildung }
-{ Maatschappelijke impact betaald investering }
-{ Hybridisteit }	
-{ Haalbaarheid en rijkheid }
-{ Beschikbaarheid en stabiliteit tools }
-{ Tools met onderwerp vs. zonder }
-
 ## Methodologie 
-
-### 
-
-
-
-
-
-
 
 ### Sub-inleiding
 
@@ -132,10 +41,6 @@ Hoewel onderzoeken op dezelfde manier moeten worden gewogen is daarentegen wel h
 ### Sub-conclusie
 
 De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele kennis streeft of maatschappelijke impact. Digitale humanisten hebben goud in de handen met hun maatschappelijk relevante vaardigheden, traditionele wetenschappers met hun maatschappijkritische theorieën. Nu nog samen in één pakket: De waarde ligt in hybriditeit.[^14] We moeten stoppen met ons te richten op de legitimatie van digitale methoden, maar ons richten op de uitvoering daarvan en de resultaten die ze kunnen genereren.[^15]De investering in de digitale methoden betaalt zich ruimschoots terug in maatschappelijke impact en inzetbaarheid. Dit rechtvaardigt de investering en maakt de Digital Humanities haalbaar.
-
----- 
-
-{ Daarnaast geven GIS-tools ons per definitie een anachronistisch perspectief op de tijd. Er is een illusie van grip op een wereld die in werkelijkheid ver van ons af staat met een perspectief dat in de tijd zelf niet beschikbaar was. }
 
 [^1]:	deep maps en design
 
