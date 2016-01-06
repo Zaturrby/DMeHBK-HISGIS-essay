@@ -3,16 +3,26 @@
 { Opdeling in kritisch en meta-kritisch deel }
 
 { Kritisch deel: }
-{ Anachronistische kritiek }
-{ Datakritiek }
-{ Implementatiekritiek }
-{ Gebruikerskritiek }
-{ Wetenschappelijke kritiek }
+{ Datakritiek: }
+{ Transformaties }
+{ Reproduceerbaarheid }
+{ Scheiding Data van Implementatie }
+{ Implementatiekritiek: }
+{ Hergebruik }
+{  }
+{ Gebruikerskritiek: }
+{  } 
+{ Kaartenkritiek } 
+{ Wetenschappelijke kritiek: }
 { Anachronisme }
 { Focus op patronen ipv. narratief }
 
 { Meta-kritische deel: }
 { DH vs Trad }
+{ Visualisatie vs Taal }
+{ Kennisdoelen } 
+{ Bildung vs Universele Kennis } 
+
 
 ### Sub-inleiding
 
@@ -57,6 +67,9 @@ Hoewel onderzoeken op dezelfde manier moeten worden gewogen is daarentegen wel h
 De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele kennis streeft of maatschappelijke impact. Digitale humanisten hebben goud in de handen met hun maatschappelijk relevante vaardigheden, traditionele wetenschappers met hun maatschappijkritische theorieën. Nu nog samen in één pakket: De waarde ligt in hybriditeit.[^14] We moeten stoppen met ons te richten op de legitimatie van digitale methoden, maar ons richten op de uitvoering daarvan en de resultaten die ze kunnen genereren.[^15]De investering in de digitale methoden betaalt zich ruimschoots terug in maatschappelijke impact en inzetbaarheid. Dit rechtvaardigt de investering en maakt de Digital Humanities haalbaar.
 
 ---- 
+
+
+{ Daarnaast geven GIS-tools ons per definitie een anachronistisch perspectief op de tijd. Er is een illusie van grip op een wereld die in werkelijkheid ver van ons af staat met een perspectief dat in de tijd zelf niet beschikbaar was. }
 
 [^1]:	deep maps en design
 
