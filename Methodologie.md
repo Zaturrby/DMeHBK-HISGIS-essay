@@ -4,27 +4,49 @@
 
 { Kritisch deel: }
 { Datakritiek: }
-{ Transformaties }
-{ Reproduceerbaarheid: scripts }
+{ Selectiecriteria en beschikbaarheid } 
+{ Autoriteit }
+{ Dirty Data }
+{ Harmonisatie en linkages }
+{ Meta-data en ontologiën }
+{ Geladenheid meta-data en ontologiën }
 { Scheiding Data van Implementatie }
+{ Hergebruik vanuit data perspectief: }
+{ Beschikbaarheid }
+{ Open Data } 
 { Implementatiekritiek: }
-{ Hergebruik: ‘Tooling’ }
+{ Transformaties }
+{ Design en User Experience: }
+{ Exploratieve mogelijkheid vs Begeleiding }
+{ Hergebruik vanuit implementatie perspectief: }
+{ Reproduceerbaarheid: }
+{ Scripts vs GUI }
 { Documentatie }
 { Optimalisatie }
-{ Gebruikerskritiek: }
-{ Design en User Experience }
-{ Onzekerheid, ambiguïteit } 
-{ Kaartenkritiek } 
+{ Versiecontrole }
+{ Archivering } 
 { Wetenschappelijke kritiek: }
+{ Doelstelling en Bereik: }
+{ Deep Map }
+{ Kaartenkritiek: }
+{ Spatial Humanities }
+{ Hergebruik vanuit interpretatief perspectief: }
+{ Onzekerheid, ambiguïteit }
 { Anachronisme }
 
 { Meta-kritische deel: }
 { Digitaal vs Traditioneel }
+{ Toevoeging statistiek, visualisatie en interfaces }
 { Patronen vs. narratief }
 { Visualisatie vs beschrijving -\> Taal }
 { Data-driven onderzoek vs Question-driven }
 { Kennisdoelen } 
-{ Bildung vs Maatschappij vs Universele Kennis } 
+{ Bildung vs Maatschappij vs Universele Kennis }
+{ Progammeervaardigheden vs. GUI’s }
+{ Iedere knop ís al geïnterpreteerd }
+{ Haalbaarheid en Rijkheid }
+{ Beschikbaarheid en stabiliteit tools }
+{ Tools met onderwerp vs. zonder }
 
 
 ### Sub-inleiding
