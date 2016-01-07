@@ -27,34 +27,15 @@ Data staat niet gelijk aan de implementatie. Visualisatie of tools zijn niet uit
 
 ##### Transformaties 
 
-Zodra de data verzamelt is begint de transformaties van die data naar een visualisatie.[^9]Er worden algoritmes naast de data gelegd. Er zijn eindeloos veel methoden om dit te doen en elk van deze methoden heeft vaak zijn eigen krachten en zwakheden. Van groot belang is de reproduceerbaarheid van deze transformaties. 
-
-
-
-Er is grote rijkheid aan methoden om te transformeren. 
-
-
-
-
-
-De onderzoeker gaat de data transformeren.Deze algoritmes zetten of construeren extra eenheden. 
-
-
-
-
 { Data transformaties }
 { Hergebruik vanuit implementatie perspectief: }
 { Reproduceerbaarheid: }
 { Scripts vs GUI }
 { Vrijheid van expressie }
-{ Iedere knop is al geïnterpreteerd }
-{ tools met onderwerp vs tools zonder onderwerp }
 { Progammeervaardigheden vs. GUI’s }
 { Beschikbaarheid en stabiliteit tools }
 
-Daarnaast moeten de transformaties en toevoegingen aan data toegankelijk en reproduceerbaar zijn. Vastlegging van deze stappen in scripts is onontbeerlijk, beschrijvingen van de bediening van interfaces belemmeren reproductie. Het doel van interfaces is om stappen aan het oog van de gebruiker te onttrekken en die stappen zijn mogelijk waardebetrokkene. Het moet duidelijk zijn wat er onder de motorkap gebeurd en dat is bij interfaces vaak niet herleidbaar.
-
-Tools waarin geen onderwerp besloten ligt zijn daarom betekenisvoller. Wij zullen als geesteswetenschappers niet zulke gereedschappen moeten willen ontwerpen. De computerwetenschappen  en het bedrijfsleven hebben dit grotendeels voor ons gedaan. Maar wij moeten ze wel kunnen gebruiken, vooral ook als ze geen grafische interface hebben. De vrijheid van expressie is vele malen groter in programmeertalen dan in de beste GUI. Maar daarvoor zijn technische vaardigheden wel noodzakelijk. Veel van de programma’s zijn bewust zonder onderwerp ontworpen en gemaakt voor hergebruik. Ze worden geoptimaliseerd en onderhouden door bedrijven met commerciële doelstellingen. De taak voor geesteswetenschappers is om deze multidimensionale tools te voorzien van rijkere narratieven waarin meerdere stemmen hun uiting in vinden en er ruimte is voor ambiguïteit en onzekerheid.
+Zodra de data verzamelt is begint de transformaties van die data naar een visualisatie.[^9]Er worden algoritmes naast de data gelegd. Er zijn eindeloos veel methoden om dit te doen en elk van deze methoden heeft vaak zijn eigen krachten en zwakheden. Van groot belang is de reproduceerbaarheid van deze transformaties. Vastlegging van deze transformatie in scripts maakt reproduceerbaarheid en daarmee de controle van een onderzoek een stuk gemakkelijker, in tegenstelling tot beschrijvingen van de bediening van grafische interfaces belemmeren reproductie. Het doel van interfaces is om stappen aan het oog van de gebruiker te onttrekken en die stappen zijn mogelijk waardebetrokken. Het moet duidelijk zijn wat er onder de motorkap gebeurd en dat is bij interfaces vaak niet herleidbaar.
 
 ##### Design en User Experience
 
@@ -87,6 +68,8 @@ Specifiek voor historische geografie zijn toponiemen-data en  basiskaarten per t
 
 ##### Voorwaarden voor hergebruik
 
+{ tools met onderwerp vs tools zonder onderwerp }
+{ Iedere knop is al geïnterpreteerd }
 { Documentatie }
 { Vastleggin wie welke verandering maakt }
 { Versiecontrole }
@@ -95,6 +78,8 @@ Specifiek voor historische geografie zijn toponiemen-data en  basiskaarten per t
 { Wrap in tests }
 { Toolbuilding }
 { Archivering } 
+
+Tools waarin geen onderwerp besloten ligt zijn daarom betekenisvoller. Wij zullen als geesteswetenschappers niet zulke gereedschappen moeten willen ontwerpen. De computerwetenschappen  en het bedrijfsleven hebben dit grotendeels voor ons gedaan. Maar wij moeten ze wel kunnen gebruiken, vooral ook als ze geen grafische interface hebben. De vrijheid van expressie is vele malen groter in programmeertalen dan in de beste GUI. Maar daarvoor zijn technische vaardigheden wel noodzakelijk. Veel van de programma’s zijn bewust zonder onderwerp ontworpen en gemaakt voor hergebruik. Ze worden geoptimaliseerd en onderhouden door bedrijven met commerciële doelstellingen. De taak voor geesteswetenschappers is om deze multidimensionale tools te voorzien van rijkere narratieven waarin meerdere stemmen hun uiting in vinden en er ruimte is voor ambiguïteit en onzekerheid.
 
 Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^15]
 
