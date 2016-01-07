@@ -3,8 +3,10 @@
 
 1. Abstract
 2. Inleiding
-3. Methodieken
-5. Toepassingen
-6. Conclusie
+3. Beoordelingskader
+3. 1. Data Visualisatie
+	2. Data Interpretatie 
+4. Toepassingen
+5. Conclusie
 
 ---- 

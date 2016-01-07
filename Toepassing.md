@@ -1,5 +1,7 @@
 ## Toepassing
 
+### Een vergelijking van drie tools
+
 Orbis -\> Hypothetische resultaten
 HISGIS -\> Illusie van algemeniteit door georeferencing
 BGB -\> Administratieve data geotagged

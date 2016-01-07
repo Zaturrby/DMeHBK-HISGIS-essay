@@ -1,14 +1,14 @@
 ## Inleiding
 
-{ Inleiding comparatieve deel }
+++Inleiding comparatieve deel++
 
 In het verlengde van de Spatial Humanities worden er veel historische geografische visualisatie gemaakt. Kleurrijke voorbeelden hiervan zijn Orbis, Pelagios, HISGIS en onze eigen visualisatie HDAT. Deze tools vertellen elk een historisch verhaal en nodigen de lezer uit geschiedenis en de kunst op een nieuwe manier te verkennen. Om dit te doen gaan ze elk op hun eigen manier met data, visualisatie, narratief en interactiviteit om. Orbis is een visualisatie waarin de Romeinse logistiek kan worden bestudeerd doormiddel van een netwerkvisualisaties, cartogrammen en routing. In hetzelfde tijdsbestek zit de Digital Atlas of the Roman Empire van het Pelagios project, een kaartlaag die hergebruikt kan worden door andere onderzoekers. HISGIS een viewer voor het gedigitaliseerde kadaster uit 1832. Als laatste is de visualisatie Historical Dutch Asiatic Trade (HDAT) een dynamische weergave van de gedigitaliseerde versie van de Boekhouder Generaal Batavia, waarin droge administratie tot leven wordt gebracht. 
 
-{ Inleiding kritische deel }
+{ Inleiding visualiserende deel }
 
 Deze visualisaties vragen meer dan ooit om een kader om de implementatie op waarde te schatten. Er zijn weinig typen visualisaties zo multidimensionaal als geografische en het is daarom verleidelijk, soms zelfs onvermijdelijk, om de realiteit vanuit een bepaald perspectief neer te zetten. Ook de voorwaarden en doelstellingen waaronder deze tools ontstaan verschillen flink van elkaar. Ze gaan elk op een andere manier met brondata en de gebruiker om. Iedere tool transformeert bijvoorbeeld de data om tot de uiteindelijke visualisatie te komen. Deze transformatie komt bovenop de traditionele problemen van de bronnenkritiek en problematiseren de relatie die de bron met de werkelijkheid heeft verder. Dit is slechts één van de vele extra stappen die de digitale methoden toevoegen aan het historisch wetenschappelijke proces. Elk van deze stappen behoeven reflectie. 
 
-{ Inleiding meta-kritische deel }
+{ Inleiding interpretatieve deel }
 
 Het is daarnaast ook de vraag of enig van deze interfaces zelfstandig bijdraagt aan één van de geesteswetenschappelijke kennisdoelen. Al deze tools verkiezen om kwantitatieve gegevens geaggregeerd en visueel gecomprimeerd aan de eindgebruiker te presenteren in plaats van een talig narratief waarin historische kennisdoelen zijn verwerkt. Hoewel de makers van deze tools zich bewust zijn van dit probleem is er zelden genoeg aandacht aan geschonken. Hierdoor positioneren ze vaak een positivistisch wereldbeeld, al dan niet multidimensionaal.[^1] Maar doordat ook de brondata sterk waardebetrokken zijn is vaak zowel een positivistisch als maatschappijkritisch kennisdoel niet geheel bevredigd. Zeker niet als de de tool als een zelfstandig object wordt beschouwd. Door de methoden in elkaars verlengde te plaatsen worden deze problemen echter grotendeels opgelost en kunnen de nieuwe perspectieven die digitale gereedschappen ons bieden goed op waarde worden geschat en kan hun impact op de hedendaagse historische wetenschappelijke praktijk worden geëvalueerd.
 
