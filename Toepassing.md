@@ -1,5 +1,15 @@
 ## Toepassing
 
+### Orbis
+
+“Our model seeks to improve our understanding of how a large-scale system such as the Roman Empire worked, of the effort it took to succeed in the struggle to connect and control tens of millions of people across hundreds and thousands of miles of land and sea.”[^1]
+
+Orbis is een model, visualisatie en interface waarin de Romeinse logistiek kan worden bestudeerd. 
+
+Orbis is een visualisatie waarin de Romeinse logistiek kan worden bestudeerd doormiddel van een netwerkvisualisaties, cartogrammen en routing. 
+
+
+
 ### Een vergelijking van drie tools
 
 Orbis -\> Hypothetische resultaten
@@ -27,3 +37,5 @@ Het tijdselement vertelt zijn eigen diachrone verhaal. Daarentegen ontbreekt in 
 
 
 ---- 
+
+[^1]:	Orbis: Understanding -\> No route
