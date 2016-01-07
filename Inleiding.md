@@ -1,6 +1,6 @@
 ## Inleiding
 
-++Inleiding comparatieve deel++
+{ Inleiding comparatieve deel }
 
 In het verlengde van de Spatial Humanities worden er veel historische geografische visualisatie gemaakt. Kleurrijke voorbeelden hiervan zijn Orbis, Pelagios, HISGIS en onze eigen visualisatie HDAT. Deze tools vertellen elk een historisch verhaal en nodigen de lezer uit geschiedenis en de kunst op een nieuwe manier te verkennen. Om dit te doen gaan ze elk op hun eigen manier met data, visualisatie, narratief en interactiviteit om. Orbis is een visualisatie waarin de Romeinse logistiek kan worden bestudeerd doormiddel van een netwerkvisualisaties, cartogrammen en routing. In hetzelfde tijdsbestek zit de Digital Atlas of the Roman Empire van het Pelagios project, een kaartlaag die hergebruikt kan worden door andere onderzoekers. HISGIS een viewer voor het gedigitaliseerde kadaster uit 1832. Als laatste is de visualisatie Historical Dutch Asiatic Trade (HDAT) een dynamische weergave van de gedigitaliseerde versie van de Boekhouder Generaal Batavia, waarin droge administratie tot leven wordt gebracht. 
 
