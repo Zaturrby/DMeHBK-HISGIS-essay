@@ -1,4 +1,4 @@
-## Toepassingen
+## Toepassing
 
 Orbis -\> Hypothetische resultaten
 HISGIS -\> Illusie van algemeniteit door georeferencing

@@ -7,7 +7,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>voorblad.md</string>
+			<string>Voorblad.md</string>
 		</array>
 		<array>
 			<string>Inhoudsopgave.md</string>
@@ -22,7 +22,13 @@
 			<string>Methodologie.md</string>
 		</array>
 		<array>
-			<string>Toepassingen.md</string>
+			<string>Methodologie - Kritiek.md</string>
+		</array>
+		<array>
+			<string>Methodologie - Meta-Kritiek.md</string>
+		</array>
+		<array>
+			<string>Toepassing.md</string>
 		</array>
 		<array>
 			<string>Conclusie.md</string>
