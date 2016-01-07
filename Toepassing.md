@@ -2,9 +2,11 @@
 
 ### Orbis
 
-“Our model seeks to improve our understanding of how a large-scale system such as the Roman Empire worked, of the effort it took to succeed in the struggle to connect and control tens of millions of people across hundreds and thousands of miles of land and sea.”[^1]
+Orbis is een model met een interface waarin de Romeinse logistiek kan worden bestudeerd. Het is opgezet als een bron voor historici om betere inschatting te maken reistijden, afstanden en kosten. Er is een routenetwerk geconstrueerd van wegen en zeebanen. Al deze routes krijgen afhankelijk van het vervoersmiddel, lengte, elevatie en de bijbehorende weersomstandigheden voor de tijd van het jaar een gewicht. De gegevens in Orbis zijn genormaliseerd naar historische bronnen en gegevens van schepen. Op basis hiervan krijgt de gebruiker een schatting van de reistijd en de kosten te zien. 
 
-Orbis is een model, visualisatie en interface waarin de Romeinse logistiek kan worden bestudeerd. 
+#### Data
+
+De bronnen van Orbis zijn duidelijk gedocumenteerd. De geografie komt van het Ancient World Mapping Center. De coördinaten van de plaatsen komen uit het Pleiades project. Als laatste is het routenetwerk geconstrueerd uit gegeorefereerde kaarten uit de The Barrington Atlas of the Greek and Roman World. Daaruit hebben de makers het wegennetwerk geconstrueerd. 
 
 Orbis is een visualisatie waarin de Romeinse logistiek kan worden bestudeerd doormiddel van een netwerkvisualisaties, cartogrammen en routing. 
 
@@ -37,5 +39,3 @@ Het tijdselement vertelt zijn eigen diachrone verhaal. Daarentegen ontbreekt in 
 
 
 ---- 
-
-[^1]:	Orbis: Understanding -\> No route
