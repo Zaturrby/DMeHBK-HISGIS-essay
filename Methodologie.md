@@ -1,6 +1,8 @@
 
 ## Methodologie 
 
+Er zijn weinig vakgebieden in de geesteswetenschap zo actief zijn met hun eigen methodologie als de Digital Humanities.[^1] Ondanks het positivistische wereldbeeld dat technologische vooruitgang lijkt te scheppen is de digitale methodiek doordenkt van standpunten van kritiek hierop. Door de introductie van nieuwe wetenschappelijke activiteit met het creëren van data, visualisaties en interfaces zijn er veel vraagstukken ontstaan van een methodologische aard. Dit hoofdstuk probeert iedere dimensie hiervan kort uiteen met een oriëntatie op de Spatial Humanities. 
+
 ### Kritiek
 
 #### Data
@@ -13,9 +15,19 @@
 { C.A.R.S }
 { Gezond verstand }
 
-Er zijn uiteraard ook specifieke kaders waarmee digitale gereedschappen moeten worden gemeten. Allereerst kan er terechte kritiek geuit worden op met welke eenheden de samenleving beschreven wordt. In tegenstelling tot traditionele bronnen die vaak zelf al rijk en divers zijn wordt de samenleving met data vaak aan de hand van enkele eenheiden beschreven. Data is geen gegeven, maar zij is genomen van de werkelijkheid: zij is ‘capta’.[^1]Deze eenheden moeten goed gewogen worden op hun waarde. Een goed voorbeeld van een enkele eenheid en het perspectief dat het biedt is de visualisatie van kunstenaarslevens in het blad Nature.[^2]
+Data is waardebetrokken. Data is Capta, zij is genomen van de werkelijkheid in plaats van gegeven daardoor.[^2]Er zijn veel criteria waarmee datasets gecreëerd en geselecteerd kunnen worden. De eenheden waarmee de data de werkelijkheid beschrijft zijn divers.[^3]Maar in tegenstelling tot traditionele bronnen wordt de werkelijkheid vaak kwantitatief beschreven aan de hand van enkele begrippen. Soms zijn die begrippen erg effectief. Geografie kan betekenisvoller worden weergegeven met kaarten dan met woorden. Soms zijn die begrippen ineffectief. Kwesties van de geest hebben vaak een groot aantal variabelen, die niet zomaar met enkele meetbare eenheden kunnen worden beschreven. Het is van groot belang dat deze eenheden en selectie
 
-Daarnaast is een gezond verstand onontbeerlijk. Een kritische houding waarin je geloofwaardigheid, nauwkeurigheid en redelijkheid afweegt hoort bij al het geesteswetenschappelijke werk.[^3]
+Vervolgens is de beschikbaarheid van data en de criteria waarmee een onderzoeker deze selecteert een belangrijk. Veel bronnen worden aan de hand van populariteit gedigitaliseerd en er zijn weinig plannen om de overige delen van de collectie een gelijkwaardige aandacht te gunnen.[^4]Dit geeft bijvoorbaat smaller perspectief dan mogelijk is. Onderzoekers bekijken deze data vervolgens weer met hun eigen waarden. Maar doordat vaak de middelen ontbreken om op grote schaal data te beoordelen of controleren gaat de onderzoeker snel op zijn intuïtie af. Er wordt een grote verantwoordelijkheid bij de onderzoeker gelegd om het bereik en de autoriteit van de data in te schatten. Er zijn middelen om de kwaliteit in te schatten maar die zijn sterk afhankelijk van de vaardigheden en middelen van de onderzoeker.  Uiteindelijk komt het vaak neer op vertrouwen en een gezond verstand, waar gesystematiseerde beoordelingscriteria zoals C.A.R.S. weinig aan bijdragen.[^5] De selectieproblemen worden vaak ook teniet gedaan door simpelweg een gebrek aan betere data. 
+
+ 
+
+
+
+
+
+Er zijn uiteraard ook specifieke kaders waarmee digitale gereedschappen moeten worden gemeten. Allereerst kan er terechte kritiek geuit worden op met welke eenheden de samenleving beschreven wordt. In tegenstelling tot traditionele bronnen die vaak zelf al rijk en divers zijn wordt de samenleving met data vaak aan de hand van enkele eenheiden beschreven. Data is geen gegeven, maar zij is genomen van de werkelijkheid: zij is ‘capta’.[^6]Deze eenheden moeten goed gewogen worden op hun waarde. Een goed voorbeeld van een enkele eenheid en het perspectief dat het biedt is de visualisatie van kunstenaarslevens in het blad Nature.[^7]
+
+Daarnaast is een gezond verstand onontbeerlijk. Een kritische houding waarin je geloofwaardigheid, nauwkeurigheid en redelijkheid afweegt hoort bij al het geesteswetenschappelijke werk.[^8]
 
 ##### Opschoning
 
@@ -60,7 +72,7 @@ Tools waarin geen onderwerp besloten ligt zijn daarom betekenisvoller. Wij zulle
 
 { Exploratieve mogelijkheid vs Begeleiding }
 
-Kaarten zijn daarnaast sterk geabstraheerd van de werkelijkheid. De metrokaart van Londen is hier een goed voorbeeld van.[^4] De beslissing om bepaalde elementen dikker of kleurrijker te maken heeft effect. Het design heeft effect op lezen, zowel visueel als in User Experience Design (UX-Design). Schaalknoppen zijn hier een goed voorbeeld van. Schaal en detail hebben grote invloed op de betekenis. Technisch is elke vergroting mogelijk, maar als het mogelijk is om voorbij het detail van de data in te zoomen dan ontstaat er een grote leegte. Voor gebruikers die het bereik van de data niet kennen kan deze leegte beeldbepalend zijn.
+Kaarten zijn daarnaast sterk geabstraheerd van de werkelijkheid. De metrokaart van Londen is hier een goed voorbeeld van.[^9] De beslissing om bepaalde elementen dikker of kleurrijker te maken heeft effect. Het design heeft effect op lezen, zowel visueel als in User Experience Design (UX-Design). Schaalknoppen zijn hier een goed voorbeeld van. Schaal en detail hebben grote invloed op de betekenis. Technisch is elke vergroting mogelijk, maar als het mogelijk is om voorbij het detail van de data in te zoomen dan ontstaat er een grote leegte. Voor gebruikers die het bereik van de data niet kennen kan deze leegte beeldbepalend zijn.
 
 ##### Voorbeelden van tools zonder onderwerp voor de Spatial Humanities
 
@@ -83,19 +95,20 @@ Voor kaarten zijn er grafische tools zoals Quantum GIS of de kaartlagen generato
 { Georeferencing }
 { Vectorising }
 
-Specifiek voor historische geografie zijn toponiemen-data en  basiskaarten per tijdperiode zeer wenselijk. Onderzoek naar toponiemen kan een grote bijdrage leven aan de koppeling tussen teksten en kaarten. In een zekere zin wordt hier een ontologie van hedendaagse plaatsnamen toegepast op historische: een alternatieve vorm van distant reading.[^5] Het ErfGeo project is een mooi voorbeeld hiervoor.[^6] Basiskaarten zijn een ander opnieuw bruikbaar fenomeen. De selectie of constructie van correcte geografie en bebouwing kost veel tijd; terwijl een onderzoeker juist een abstracter verhaal binnen het kader van een tijd wil vertellen. Het georefereren van oude kaarten is een mooi begin, maar idealiter worden deze kaarten gevectoriseerd zodat ze algoritmisch vergelijkbaar worden. Binnen deze data kan een onderzoeker dan een abstracter narratief opzetten. De Romeinse kaart van Pelagius project is hier een goed voorbeeld van.[^7] In vergelijking met Orbis wordt ook al zichtbaar dat in deze kaarten een nieuw consensus gevonden moet worden. De kaart van Orbis verschilt namelijk aanzienlijk van Pelagius door de verschillende doelstellingen.[^8] Hoewel de kaartlagen een interessante opnieuw bruikbare tussenstap zijn, zijn ze waardebetrokken en ook hier moet de construerende data altijd beschikbaar zijn.
+Specifiek voor historische geografie zijn toponiemen-data en  basiskaarten per tijdperiode zeer wenselijk. Onderzoek naar toponiemen kan een grote bijdrage leven aan de koppeling tussen teksten en kaarten. In een zekere zin wordt hier een ontologie van hedendaagse plaatsnamen toegepast op historische: een alternatieve vorm van distant reading.[^10] Het ErfGeo project is een mooi voorbeeld hiervoor.[^11] Basiskaarten zijn een ander opnieuw bruikbaar fenomeen. De selectie of constructie van correcte geografie en bebouwing kost veel tijd; terwijl een onderzoeker juist een abstracter verhaal binnen het kader van een tijd wil vertellen. Het georefereren van oude kaarten is een mooi begin, maar idealiter worden deze kaarten gevectoriseerd zodat ze algoritmisch vergelijkbaar worden. Binnen deze data kan een onderzoeker dan een abstracter narratief opzetten. De Romeinse kaart van Pelagius project is hier een goed voorbeeld van.[^12] In vergelijking met Orbis wordt ook al zichtbaar dat in deze kaarten een nieuw consensus gevonden moet worden. De kaart van Orbis verschilt namelijk aanzienlijk van Pelagius door de verschillende doelstellingen.[^13] Hoewel de kaartlagen een interessante opnieuw bruikbare tussenstap zijn, zijn ze waardebetrokken en ook hier moet de construerende data altijd beschikbaar zijn.
 
 ##### Voorwaarden voor hergebruik
 
 { Documentatie }
+{ Vastleggin wie welke verandering maakt }
+{ Versiecontrole }
+{ Git, SVN, Mercurial } 
 { Optimalisatie }
 { Wrap in tests }
 { Toolbuilding }
-{ Versiecontrole }
-{ Git, SVN, Mercurial } 
 { Archivering } 
 
-Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9]
+Als laatste is het gebruik van gesystematiseerde versie controle van belang. Een onderzoek is gegenereerd op een bepaalde versie van een kaart of tool. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen bijvoorbeeld scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^14]
 
 Er zijn wel mogelijkheden tot hergebruik van sommige tools met een onderwerp daarin, maar er moet zorgvuldig afgewogen worden wat opnieuw bruikbaar is. 
 
@@ -105,7 +118,7 @@ Er zijn wel mogelijkheden tot hergebruik van sommige tools met een onderwerp daa
 
 { Deep Map }
 
-Een kaart is altijd een gesloten systeem waarin de vragen, waarden, middelen en vaardigheden van de betrokken onderzoekers uitdrukking in vind. Een “deep map” met vrije exploratie is altijd hierdoor begrenst.[^10] Het is hierdoor twijfelachtig of er opnieuw bruikbare humanistische digitale tools gecreëerd kunnen worden waarin een onderwerp besloten ligt. De waardebetrokkenheid van de onderwerpen en de adaptatie-problemen inherent aan digitale producten maken hergebruik van kaarten, tools en interfaces problematisch. Iedere knop in een tool is bewust neergezet en in grote mate geïnterpreteerd door de ontwerpende onderzoeker. Archivering is daarnaast ook nog een groot probleem. Er zijn eindeloos veel implementaties mogelijk van rijke data en deze zullen niet allemaal onderhouden kunnen worden. 
+Een kaart is altijd een gesloten systeem waarin de vragen, waarden, middelen en vaardigheden van de betrokken onderzoekers uitdrukking in vind. Een “deep map” met vrije exploratie is altijd hierdoor begrenst.[^15] Het is hierdoor twijfelachtig of er opnieuw bruikbare humanistische digitale tools gecreëerd kunnen worden waarin een onderwerp besloten ligt. De waardebetrokkenheid van de onderwerpen en de adaptatie-problemen inherent aan digitale producten maken hergebruik van kaarten, tools en interfaces problematisch. Iedere knop in een tool is bewust neergezet en in grote mate geïnterpreteerd door de ontwerpende onderzoeker. Archivering is daarnaast ook nog een groot probleem. Er zijn eindeloos veel implementaties mogelijk van rijke data en deze zullen niet allemaal onderhouden kunnen worden. 
 
 ##### Kaartenkritiek en traditionele ruimtelijke interpretaties
 
@@ -113,7 +126,7 @@ Een kaart is altijd een gesloten systeem waarin de vragen, waarden, middelen en 
 { Beeldvorming }
 { Namen en postkolonialisme }
 
-Voor kaarten zijn er bovendien domein gerelateerde problemen. Projecties en oriëntatie van kaarten bepalen de beeldvorming enorm. Zoals … liet zien met Africa en … met India in vergelijking tot Europa.[^11][^12] Daarnaast zijn kaarten en taal verweven, in welke taal zet je plaatsnamen neer: Spreken we van Batavia of Jakarta? De keuze heeft een performatief effect en we moeten hierbij waken voor post-kolonialisme. 
+Voor kaarten zijn er bovendien domein gerelateerde problemen. Projecties en oriëntatie van kaarten bepalen de beeldvorming enorm. Zoals … liet zien met Africa en … met India in vergelijking tot Europa.[^16][^17] Daarnaast zijn kaarten en taal verweven, in welke taal zet je plaatsnamen neer: Spreken we van Batavia of Jakarta? De keuze heeft een performatief effect en we moeten hierbij waken voor post-kolonialisme. 
 
 ##### Hergebruik
 
@@ -138,13 +151,16 @@ Daarnaast geven GIS-tools ons per definitie een anachronistisch perspectief op d
 
 { Toevoeging statistiek, visualisatie en interfaces }
 { Tools en patronen vs. Narratief }
+{ Rensbod Humanities 3.0 }
 { Visualisatie vs beschrijving -\> Taal }
 { Voorbeeld }
 { Architectuur }
 
+Hoewel de definitie van een patroon opgerekt kan worden om de geesteswetenschappen erin te vangen. Kom interpretatie altijd na de tool.
+
 Het uiteindelijke doel van een onderzoek moet uiteindelijk echter niet een visualisatie of interface zijn. Dit wordt vaak geopperd doordat het proces zo aanzienlijk verschilt in vergelijking met de talige traditionele methodologieën. Het is intensiever en collectiever. Maar het achterliggende probleem heeft veel meer te maken met het veronderstelde kennisdoel van de geesteswetenschap. Is het een positivistisch doel in het vinden van patronen of hebben de geesteswetenschappen een meer romantisch doel in het verrijken en diversificeren van de samenleving? Het onderzoek wordt in de traditionele methoden vaak ingestoken met een onderzoeksvraag. Bij de digitale methoden is het startpunt intuïtief de bron of data. Het reflexieve proces tussen bron en onderzoeker dat er is bij ieder type onderzoek is wordt duidelijk gewonnen door de bron bij digitale methoden. De nadruk ligt daardoor bij voorbaat al op patronen. Terwijl het in de traditionele methoden meer beginnen bij de vraag en maatschappijkritische representaties die daarmee worden gecreëerd. 
 
-Het is belangrijk om te realiseren dat ondanks de moeite die in digitale methoden gaan zitten het eindresultaat uiteindelijk onder dezelfde voorwaarden gewogen moet worden. Visualisaties en interfaces zijn slechts een tussenstap tussen de bron of data en de onderzoekstekst. Als we bijvoorbeeld willen uitzoeken wie of wat het meest bepalend is geweest voor de Amsterdamse architectuur in de 16e eeuw is het zeer voordelig dat we een kaart van Amsterdam omstreeks 1500 en 1600 op het scherm tevoorschijn kunnen halen, en die met elkaar kunnen vergelijken. Het liefst algoritmisch om ons oog al te leiden naar de verschillen. Vervolgens moet de technologie losgelaten worden en de disciplinaire bril opgezet worden. In de vergelijking zijn redeneringen van agency en ongelijkheden mogelijk zoals sociaal-economische, feministische of post-kolonialistische. Eveneens perspectieven zoals het semiotische zijn erbij gediend, want de veranderingen in de objecten zijn symptomen van de contemporaine discussie en betekenis.[^13] Dit narratief, deze tekst, is het uiteindelijke onderzoeksresultaat, niet de visualisatie of interface.
+Het is belangrijk om te realiseren dat ondanks de moeite die in digitale methoden gaan zitten het eindresultaat uiteindelijk onder dezelfde voorwaarden gewogen moet worden. Visualisaties en interfaces zijn slechts een tussenstap tussen de bron of data en de onderzoekstekst. Als we bijvoorbeeld willen uitzoeken wie of wat het meest bepalend is geweest voor de Amsterdamse architectuur in de 16e eeuw is het zeer voordelig dat we een kaart van Amsterdam omstreeks 1500 en 1600 op het scherm tevoorschijn kunnen halen, en die met elkaar kunnen vergelijken. Het liefst algoritmisch om ons oog al te leiden naar de verschillen. Vervolgens moet de technologie losgelaten worden en de disciplinaire bril opgezet worden. In de vergelijking zijn redeneringen van agency en ongelijkheden mogelijk zoals sociaal-economische, feministische of post-kolonialistische. Eveneens perspectieven zoals het semiotische zijn erbij gediend, want de veranderingen in de objecten zijn symptomen van de contemporaine discussie en betekenis.[^18] Dit narratief, deze tekst, is het uiteindelijke onderzoeksresultaat, niet de visualisatie of interface.
 
 #### Kennisdoelen
 
@@ -159,36 +175,46 @@ Digitale geesteswetenschappen worden vaak gepositioneerd als anders dan de tradi
 
 Hoewel onderzoeken op dezelfde manier moeten worden gewogen is daarentegen wel heel gemakkelijk om Digitale Humanisten de grond onder de voeten weg te schieten vanuit geesteswetenschappelijk perspectief. Zij hebben vele malen minder tijd voor hun studies en schrijfvaardigheden dan traditionele humanisten. Ook hun onderzoeksprojecten zijn vele malen omvangrijker. Maar hoewel het geesteswetenschappelijk resultaat vergelijkbaar zal zijn, is de maatschappelijke impact van digitale humanisten vele malen groter. De visualisaties en tools zijn gemakkelijk te valoriseren. Traditionele geesteswetenschappers isoleren zich doordat zij zichzelf en hun standpunten niet effectief autonoom kunnen profileren in moderne media als het internet. Daarnaast vechten traditionele humanisten vechten voor een sterk beperkte hoeveelheid banen terwijl goed opgeleide digitale humanisten overal inzetbaar zijn. Technologie is een belangrijk onderdeel van de moderne samenleving.
 
-De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele kennis streeft of maatschappelijke impact. Digitale humanisten hebben goud in de handen met hun maatschappelijk relevante vaardigheden, traditionele wetenschappers met hun maatschappijkritische theorieën. Nu nog samen in één pakket: De waarde ligt in hybriditeit.[^14] We moeten stoppen met ons te richten op de legitimatie van digitale methoden, maar ons richten op de uitvoering daarvan en de resultaten die ze kunnen genereren.[^15]De investering in de digitale methoden betaalt zich ruimschoots terug in maatschappelijke impact en inzetbaarheid. Dit rechtvaardigt de investering en maakt de Digital Humanities haalbaar.
+De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele kennis streeft of maatschappelijke impact. Digitale humanisten hebben goud in de handen met hun maatschappelijk relevante vaardigheden, traditionele wetenschappers met hun maatschappijkritische theorieën. Nu nog samen in één pakket: De waarde ligt in hybriditeit.[^19] We moeten stoppen met ons te richten op de legitimatie van digitale methoden, maar ons richten op de uitvoering daarvan en de resultaten die ze kunnen genereren.[^20]De investering in de digitale methoden betaalt zich ruimschoots terug in maatschappelijke impact en inzetbaarheid. Dit rechtvaardigt de investering en maakt de Digital Humanities haalbaar.
 
 ----  
 
-[^1]:	Tekst over capta
+[^1]:	Boonstra
 
-[^2]:	nature vis
+[^2]:	Capta
 
-[^3]:	CARS
+[^3]:	Capta
 
-[^4]:	Metrokaart Londen
+[^4]:	Artikel begin college reeks die deze problematiek aanspreekt.
 
-[^5]:	Morelli
+[^5]:	CARS
 
-[^6]:	Erfgeo site of artikel -\> het toponiemen onderdeel
+[^6]:	Tekst over capta
 
-[^7]:	Pelagius artikel
+[^7]:	nature vis
 
-[^8]:	Orbis artikel
+[^8]:	CARS
 
-[^9]:	Git
+[^9]:	Metrokaart Londen
 
-[^10]:	deep maps en design
+[^10]:	Morelli
 
-[^11]:	Africa auteur
+[^11]:	Erfgeo site of artikel -\> het toponiemen onderdeel
 
-[^12]:	India auteur
+[^12]:	Pelagius artikel
 
-[^13]:	Hier leun ik sterk op het boek van Benaderingen
+[^13]:	Orbis artikel
 
-[^14]:	Tekstje aan het begin van het college noemt deze term
+[^14]:	Git
 
-[^15]:	Boonstra.
+[^15]:	deep maps en design
+
+[^16]:	Africa auteur
+
+[^17]:	India auteur
+
+[^18]:	Hier leun ik sterk op het boek van Benaderingen
+
+[^19]:	Tekstje aan het begin van het college noemt deze term
+
+[^20]:	Boonstra.
