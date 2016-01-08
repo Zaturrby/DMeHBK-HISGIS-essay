@@ -6,9 +6,29 @@ Orbis is een model met een interface waarin de Romeinse logistiek kan worden bes
 
 #### Data
 
-De bronnen van Orbis zijn duidelijk gedocumenteerd. De geografie komt van het Ancient World Mapping Center. De coördinaten van de plaatsen komen uit het Pleiades project. Als laatste is het routenetwerk geconstrueerd uit gegeorefereerde kaarten uit de The Barrington Atlas of the Greek and Roman World. Daaruit hebben de makers het wegennetwerk geconstrueerd. 
+Je komt er snel achter dat het onbegonnen werk is om de autoriteit van de data te achterhalen. In principe kun je er alleen maar op vertrouwen dat het goede data is.
 
-Orbis is een visualisatie waarin de Romeinse logistiek kan worden bestudeerd doormiddel van een netwerkvisualisaties, cartogrammen en routing. 
+De bronnen van Orbis zijn duidelijk gedocumenteerd. De geografie komt van het Ancient World Mapping Center. De coördinaten van de plaatsen komen uit het Pleiades project. Als laatste is het routenetwerk geconstrueerd uit gegeorefereerde kaarten uit de The Barrington Atlas of the Greek and Roman World. Vervolgens zijn er een paar kleine bronnen die in de kaart wat detail toevoegen. 
+
+Data is maar deels exporteerbaar. Er is een magere optie om een SVG van het routenetwerk te exporteren maar de originele data met alle modellen erin ontbreekt. Juist die data is interessant.  Data en interface zijn niet goed van elkaar gescheiden, zeker omdat veel berekeningen in de applicatie zelf plaatsvinden. 
+
+#### Implementatie
+
+Daaruit hebben de makers het wegennetwerk geconstrueerd. Gaten zijn opgevuld. De gebruikerservaring is slecht. Het is moeilijk achterhalen wat je ziet in de grafieken.  Als academische publicaties is het daarnaast problematisch aangezien de artikelen in applicatie niet gemakkelijk citeerbaar zijn. De sterke juxtapositie van wetenschappelijke artikelen met de tool waardoor de verantwoording toegankelijker wordt is wel goed. 
+
+#### Interpretatie
+
+Er is weinig over te zeggen. Er is een artikel dat kort vermeld dat Orbis gebruik kan worden om de groei van het Romeinse rijk te beschrijven. Maar dat is nog niet verder uitgewerkt. Het potentieel voor interpretatie lijkt laag, als er al ooit potentieel was. Een visuele kaart is kwantificeerbaar gemaakt, waar vervolgens hypothetisch detail aan toegevoegd is. Patronen zijn wellicht waarneembaar, maar die scheppen dan wel een heel deterministisch wereldbeeld. Als gesteld zou kunnen worden vanuit Orbis dat het routenetwerk bepalend is geweest voor de groei van het Romeinse Rijk is het alsnog de vraag of historie op deze schaal wel interessant is. 
+
+
+
+
+
+
+
+### Pelagios
+
+
 
 
 
@@ -31,7 +51,7 @@ Dit perspectief levert een sterk diachrone weergave op waarbij interne relaties 
 
 ### Orbis
 
-Ook is er een sterke juxtapositie van wetenschappelijke artikelen met de tool waardoor de verantwoording toegankelijker wordt.
+
 
 ### HDAT
 
