@@ -1,5 +1,5 @@
 
-## Inhoudsopgave
+# Inhoudsopgave
 
 1. Abstract
 2. Inleiding

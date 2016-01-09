@@ -1,4 +1,4 @@
-## Data Interpretatie
+## Interpretatie
 
 Fry’s stappen voor datavisualisatie zijn begrenst in humanistisch perspectief. De humanistische taalverwerkingsmachine kan pas echt aan het ratelen gaan als de visualisatie staat.[^1] Pas dan kunnen de humanistische methodieken volledig ingezet worden, zoals Rens Bod met Humanities 3.0. ook betoogd.[^2] Doordat de keuzes van data en implementatie volledig onder de controle van de onderzoeker hebben gestaan is nu ook een bewuste interpretatie mogelijk. De onderzoeker heeft vooral gedacht door middel van het maakproces. De data is verkend, er zijn wireframes gemaakt, prototypes en uiteindelijk de visualisatie of applicatie. [^3]Fenomenen moeten nu geduid worden. Hiervoor is een grondig literatuuronderzoek en een interpretatief perspectief wenselijk. 
 

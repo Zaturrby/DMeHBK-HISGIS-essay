@@ -22,13 +22,31 @@
 			<string>Beoordelingskader.md</string>
 		</array>
 		<array>
-			<string>Data Visualisatie.md</string>
+			<string>Data.md</string>
 		</array>
 		<array>
-			<string>Data Interpretatie.md</string>
+			<string>Implementatie.md</string>
+		</array>
+		<array>
+			<string>Interpretatie.md</string>
 		</array>
 		<array>
 			<string>Toepassing.md</string>
+		</array>
+		<array>
+			<string>Orbis.md</string>
+		</array>
+		<array>
+			<string>Pelagios.md</string>
+		</array>
+		<array>
+			<string>HISGIS.md</string>
+		</array>
+		<array>
+			<string>HDAT.md</string>
+		</array>
+		<array>
+			<string>Subconclusie.md</string>
 		</array>
 		<array>
 			<string>Conclusie.md</string>
