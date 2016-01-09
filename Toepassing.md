@@ -2,7 +2,7 @@
 
 ### Orbis
 
-Orbis is een model met een interface waarin de Romeinse logistiek kan worden bestudeerd. Het is opgezet als een bron voor historici om betere inschatting te maken reistijden, afstanden en kosten. In Orbis is een routenetwerk geconstrueerd van wegen en zeebanen. Al deze routes krijgen afhankelijk van het vervoersmiddel, afstand, elevatie en weersomstandigheden een gewicht. Op basis hiervan krijgt de gebruiker een schatting van de reistijd en de kosten te zien. Daarnaast zijn zijn er allerlei cartogrammen, Minard diagrammen en andere netwerkvisualisaties over de kaart heen gelegd. Zodoende is het Romeinse wegennetwerk op een hedendaagse manier begrijpbaar en navigeerbaar gemaakt. 
+Orbis is een model met een interface waarin de Romeinse logistiek kan worden bestudeerd. Het is opgezet als een bron voor historici om betere inschatting te maken reistijden, afstanden en kosten. In Orbis is een routenetwerk geconstrueerd van wegen en zeebanen. Al deze routes krijgen afhankelijk van het vervoersmiddel, afstand, elevatie en weersomstandigheden een gewicht. Op basis van dit ‘geospatial model’ krijgt de gebruiker een schatting van de reistijd en de kosten te zien. Daarnaast zijn zijn er allerlei cartogrammen zoals Minard diagrammen en andere netwerkvisualisaties over de kaart heen gelegd. Zodoende is het Romeinse wegennetwerk op een hedendaagse manier begrijpbaar en navigeerbaar gemaakt. 
 
 #### Data
 
@@ -14,22 +14,23 @@ Helaas zijn echter de construerende bronnen niet zichtbaar los van het eindresul
 
 ### Implementatie
 
-Helaas is de link naar de broncode niet duidelijk weergegeven, maar na een kleine zoektocht is deze vindbaar op Github. [^1]Het is echter maar deels beschikbaar. Alle PHP code, waarin de data transformerende algoritmes staan zijn bewust niet online gezet.[^2] Een goede peer review van de data transformatie is dus niet mogelijk. Helaas is de code ook niet los gedocumenteerd. Daarnaast is er relatief weinig structuur in de code. Herstructurering van de code is nodig voordat de interface echt opnieuw bruikbaar is. 
+Helaas is de link naar de broncode niet duidelijk weergegeven, maar na een kleine zoektocht is deze vindbaar op Github. [^1]Het is echter maar deels beschikbaar. Alle PHP code, waarin de data transformerende algoritmes staan zijn bewust niet online gezet.[^2] Een goede peer review van de data transformaties is daardoor niet mogelijk. De beschikbare code is niet gedocumenteerd en bevat bovendien relatief weinig structuur om gemakkelijk waardebrokken onderdelen te kunnen ontrafelen zonder begeleiding. Uit de bijvoegde academische documentatie is echter wel het een en ander over de transformatie af te leiden. De belangrijkste toevoeging van Orbis is dat de Barrington Atlas is gevectoriseerd en vervolgens geïnterpoleerd waar gegevens ontbraken. De zeeroutes en hun gewicht zijn algoritmisch bepaald met behulp van meteorologische data. Veel van deze keuzes zijn ook gecorreleerd met historische academische literatuur. 
 
-Uit de bijvoegde academische documentatie is wel het een en ander over de transformatie af te leiden. De belangrijkste toevoeging van Orbis is dat ze de Barrington Atlas hebben gevectoriseerd en vervolgens geïnterpoleerd waar gegevens ontbraken. De zeeroutes en hun gewicht zijn algorimatisch routes bepaald met behulp van meteorologische data. Pragmatisch redenen hebben de auteurs gedwongen om veel te specificeren wat anders niet beschreven zou worden. Veel van deze keuzes zijn ook gefundeerd in academische literatuur. De resulterende routenetwerken hebben potentieel.
-
-De interface is beter beoordelen. De interface bied de gebruiker ruime mogelijkheden om het routenetwerk te verkennen.  De routing werkt redelijk intuïtief en bied veel mogelijkheden. Daarnaast zijn er interessante verdiepende grafieken, hoewel weergegeven op een smal vlak op het scherm. Het is ook goed mogelijk om afbeeldingen te genereren hoe een bijvoorbeeld een stad functioneerde in het wegennetwerk. De applicatie is echter geen handig publicatieplatform voor teksten. De teksten kunnen niet worden afgedrukt en ze hebben tevens geen zelfstandig webadres. Dit maakt citatie problematisch. Het idee van de juxtapositie van documentatie en applicatie is goed, maar iets meer scheiding is wenselijk.
+De interface is beter beoordelen. De interface bied de gebruiker ruime mogelijkheden om het routenetwerk te verkennen. De routing werkt intuïtief en bied veel mogelijkheden en de kaart laad snel. Daarnaast zijn er interessante verdiepende grafieken, hoewel weergegeven op een smal vlak op het scherm. Het is ook goed mogelijk om afbeeldingen te genereren hoe een bijvoorbeeld een stad functioneerde in het wegennetwerk. De applicatie is echter geen handig publicatieplatform voor academische teksten. De teksten kunnen niet worden afgedrukt en ze hebben tevens geen zelfstandig webadres, digital object identifiër (DOI) of andere identificatie mogelijkheden. Dit maakt citatie lastig. De juxtapositie van documentatie en applicatie is wenselijk, maar iets meer scheiding is handiger.
 
 #### Interpretatie
 
-Het grootste probleem met Orbis wordt zichtbaar in hun eigen vergelijking met Google Maps. Google Maps is waarschijnlijk veel accurater dan Orbis, maar desalniettemin duurt een reis regelmatig langer dan weergegeven. Particulariteiten, vooral ongebruikelijke en narratief bepalende, zijn niet goed uitgedrukt aan de hand van een model. De auteurs erkennen dat dit ook niet hun bedoeling is. In hoeverre Orbis in de huidige staat echter kan bijdragen aan ons begrip van de Romeinse tijd is twijfelachtig. Aangezien particulariteiten toch niet accuraat beschreven kunnen worden aan de hand van een model is het de vraag welke verhouding tussen accuraatheid en tijdsinvestering wenselijk is. De auteurs hebben buitengewoon veel aandacht besteed aan het onderbouwen van hun model in plaats van deze te gebruiken om hun model interpretatief interessanter te maken. 
+Orbis is geen zelfstandig geesteswetenschappelijk product. Scheidel en Meeks hebben beiden artikelen ter ondersteuning geschreven. Vooral het artikel “The shape of the Roman world” schept ligt op de interpretatieve mogelijkheden. In de artikelen wordt continue benadrukt dat de nadruk op structuren ligt en niet op particulariteiten. Het model laat de condities en beperkingen zien waaronder gebeurtenissen plaatsvonden. Scheidel stelt aan de hand van Orbis dat een belangrijke determinant van het Romeinse verval de kosten voor connectiviteit zijn. De expansie naar onbereikbare gebieden legde grote druk op de economie en bespoedigden politieke transformatie waardoor het rijk uiteindelijk segmenteerde en verviel.
 
-Van groot belang is dat de interface geen zelfstandig geesteswetenschappelijk product is, zelfs niet met de bijgevoegde documentatie. Het werkelijke product is het 
+Deze deterministische interpretatie van het Romeinse Rijk roept vragen op. Contextualisatie met een perspectief met meer zorg voor agency zou wenselijk zijn. Want hoewel Scheidel de val naar de expansie verklaart aan de hand vanuit de kosten van connectiviteit, zijn deze kosten wellicht ontstaan vanuit agency. De beslissing om militaire macht en het politieke centrum te verplaatsen naar de Donau, zoals Scheidel stelt, roept vragen op over de drijvende krachten daarachter. 
 
-Dit probleem is verbonden met de data
+In het geval van Orbis is het model duidelijk waardevoller dan de interface. Het model is niet verantwoord te bestuderen vanuit de interface zonder toegang tot de construerende data. Daarnaast lokt de analogie met Google Maps uit dat men juist particulariteiten aan de hand van de interface gaat beschrijven.    Vanuit dit perspectief lijkt het detail dat het model bevat overdadig en 
 
 
-Er is weinig over te zeggen. Er is een artikel dat kort vermeld dat Orbis gebruik kan worden om de groei van het Romeinse rijk te beschrijven. Maar dat is nog niet verder uitgewerkt. Het potentieel voor interpretatie lijkt laag, als er al ooit potentieel was. Een visuele kaart is kwantificeerbaar gemaakt, waar vervolgens hypothetisch detail aan toegevoegd is. Patronen zijn wellicht waarneembaar, maar die scheppen dan wel een heel deterministisch wereldbeeld. Als gesteld zou kunnen worden vanuit Orbis dat het routenetwerk bepalend is geweest voor de groei van het Romeinse Rijk is het alsnog de vraag of historie op deze schaal wel interessant is. 
+
+
+
+
 
 
 
@@ -74,6 +75,8 @@ Onze eigen tool HDAT heeft een hogere specificiteit, heeft zich gericht op dynam
 ---- 
 
 ### Subconclusie
+
+Er is een cumulatief effect binnen de Digital Humanities dat moeilijk zichtbaar is elders in de geesteswetenschap. Waar traditionele geesteswetenschappen natuurlijk neigen om de breedte in te gaan, gaan de Digital Humanities de diepte in. Dit leidt in sommige gevallen tot positivistische of deterministische interpretaties. Aan de andere kant kunnen particulariteiten voorzien worden contextualisatie die voorheen onmogelijk was. Maar interpretatie die zich richten op literatuur en traditioneel bronnen onderzoek zijn tevens van groot belangrijk om de resultaten van deze digitale onderzoeken op waarde te schatten.
 
 Je komt er snel achter dat het onbegonnen werk is om de autoriteit van de data te achterhalen. In principe kun je er alleen maar op vertrouwen dat het goede data is.
 
