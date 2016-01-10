@@ -15,7 +15,7 @@ De code is beschikbaar op Github en voorzien van een korte documentatie. Helaas 
 
 Het design heeft voldoende aandacht gekregen. De interface voelt   intuïtief aan en er zijn ook reflecties beschikbaar over de gemaakte keuzes. Zo zijn andere modi van visualisatie beschreven en de redenen waarom deze uiteindelijk zijn gekozen. Hieraan heeft een kan een volgende onderzoeker, die wellicht wil verder bouwen aan dit onderzoekgebied steun. De interface laad iets of wat traag, maar dit was onvermijdelijk aangezien het grote aantal punten dat de onderzoekers wouden weergeven. De kaart maakt slim gebruik van kleur, interface elementen, lagen en meerdere views. Interactiviteit tussen de elementen is slim met hovers geregeld. Al met al is dit een goed uitgewerkte interface, waaraan weinig aan op te merken valt.[^3]
 
-## Interpretatie
+### Interpretatie
 
 De project is verwerkt in een 287 pagina’s tellende dissertatie. [^4]Aangezien dit doorlezen ver buiten het bereik van dit essay valt volsta ik met een blogpost die de auteur rondom die project heeft geschreven.[^5] Hierin gebruikt hij de data van de postkantoren om een alternatief perspectief te geven op expansie van de Anglo-Amerikaanse cultuur westwaarts. De postkantoren zijn de eerste institutie die in afgelegen gebieden werd opgezet en laat zo duidelijk de vraag vanuit de gebieden zien en de reactie van de overheid daarop. De postkantoren bieden de ruimte om de simultane natuur van de verhalen van de goudzoeker, spoorwegen, soldaat en agrariër te vertellen. 
 

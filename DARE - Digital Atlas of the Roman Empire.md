@@ -16,7 +16,7 @@ Design heeft aandacht gekregen. De auteur heeft speciaal nagedacht over typograf
 
 ### Interpretatie
 
-Dit project had geen interpretatieve doelstellingen.
+Dit project had geen interpretatieve doelstellingen. Het doel was hergebruik.
 
 ---- 
 
