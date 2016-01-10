@@ -1,4 +1,4 @@
-## HDAT
+## HDAT - Historical Dutch Asiatic Trade
 
 Onze eigen tool HDAT heeft een hogere specificiteit, heeft zich gericht op dynamiek en is daardoor meer geneigd naar narratief. Het tijdselement vertelt zijn eigen diachrone verhaal. Daarentegen ontbreekt in de laatste tool zowel autoriteit als verantwoording en is goed zichtbaar dat deze tool nog in aanbouw is. 
 

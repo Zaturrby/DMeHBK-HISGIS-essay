@@ -1,5 +1,6 @@
-# Toepassing
+# - Toepassing -
 
 In het volgende deel zal het kader worden toegepast op drie tools. Orbis, Peripleo en HDAT.
 
 ---- 
+

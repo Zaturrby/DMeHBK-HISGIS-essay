@@ -27,6 +27,7 @@ Hierboven zijn de tools gecategoriseerd op tools met onderwerp en zonder. Tools 
 Deze worden vaak ook geoptimaliseerd en ingezet in het bedrijfsleven en open source tools op dit niveau zijn door commerciële belangen vaak ook stabieler. Als geesteswetenschappers hoeven wij niet zozeer deze tools te bouwen, optimalisatie is een taak voor ICT’ers. Dit is ook goed mogelijk, want als de input en output hetzelfde zijn is de taak relatief waardevrij. De toegevoegde waarde van interpretatieve methodologieën is dan te verwaarlozen. Maar wij moeten wel zelf onze visualisaties en interfaces opzetten. Onze taak moet liggen in deze multidimensionale tools te voorzien van rijke narratieven waarin meerdere stemmen hun uiting in vinden en er ruimte is voor ambiguïteit en onzekerheid.
 
 Als laatste zijn documentatie en gesystematiseerde versie controle van groot belang. Het is van belang het van belang om te kunnen achterhalen wie veranderingen maakt en op welke versie  van een tool of kaart een onderzoek is geschreven. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^12]Documentatie van de code is ook essentieel, niet alleen om te beoordelen wie veranderingen heeft gemaakt, maar ook voor hergebruik of uitbreiding van de code. 
+
 ---- 
 
 [^1]:	Ben Fry -\> Proces

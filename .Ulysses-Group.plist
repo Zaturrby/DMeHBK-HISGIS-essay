@@ -7,19 +7,19 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Voorblad.md</string>
+			<string>- Voorblad -.md</string>
 		</array>
 		<array>
-			<string>Inhoudsopgave.md</string>
+			<string>- Inhoudsopgave -.md</string>
 		</array>
 		<array>
-			<string>Abstract.md</string>
+			<string>- Abstract -.md</string>
 		</array>
 		<array>
-			<string>Inleiding.md</string>
+			<string>- Inleiding -.md</string>
 		</array>
 		<array>
-			<string>Beoordelingskader.md</string>
+			<string>- Beoordelingskader -.md</string>
 		</array>
 		<array>
 			<string>Data.md</string>
@@ -31,25 +31,22 @@
 			<string>Interpretatie.md</string>
 		</array>
 		<array>
-			<string>Toepassing.md</string>
+			<string>- Toepassing -.md</string>
 		</array>
 		<array>
-			<string>Orbis.md</string>
+			<string>ORBIS - The Stanford Geospatial Network Model of the Roman World.md</string>
 		</array>
 		<array>
-			<string>Pelagios.md</string>
+			<string>DARE - Digital Atlas of the Roman Empire.md</string>
 		</array>
 		<array>
-			<string>HISGIS.md</string>
+			<string>GP - Geography of Post.md</string>
 		</array>
 		<array>
-			<string>HDAT.md</string>
+			<string>HDAT - Historical Dutch Asiatic Trade.md</string>
 		</array>
 		<array>
-			<string>Subconclusie.md</string>
-		</array>
-		<array>
-			<string>Conclusie.md</string>
+			<string>- Conclusie -.md</string>
 		</array>
 		<array>
 			<string>drafts - inleiding.md</string>
@@ -65,6 +62,9 @@
 		</array>
 		<array>
 			<string>drafts - proces.md</string>
+		</array>
+		<array>
+			<string>drafts - HISGIS.md</string>
 		</array>
 	</array>
 </dict>
