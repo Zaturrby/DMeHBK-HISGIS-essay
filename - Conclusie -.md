@@ -1,17 +1,7 @@
 # - Conclusie - 
 
-Een vergelijking van drie tools
+Er is een cumulatief effect binnen de Digital Humanities dat moeilijk zichtbaar is elders in de geesteswetenschap. Waar traditionele geesteswetenschappen natuurlijk neigen om de breedte in te gaan, gaan de Digital Humanities de diepte in. Dit leidt in sommige gevallen tot positivistische of deterministische interpretaties. Aan de andere kant kunnen particulariteiten voorzien worden contextualisatie die voorheen onmogelijk was. Maar interpretaties die zich richten op literatuur en traditioneel bronnen onderzoek zijn tevens van groot belangrijk om de resultaten van deze digitale onderzoeken op waarde te schatten. Zelfstandig is het lastig om deze applicaties van betekenis te voorzien. 
 
-Orbis -\> Hypothetische resultaten
-HISGIS -\> Illusie van algemeniteit door georeferencing
-BGB -\> Administratieve data geotagged
-HDAT -\> Narratief en specificiteit
-Pelagios/Peripleo -\> Kaartlaag
-Nature visualisatie -\> Visualisatie aan de hand van één eenheid
-TANAP -\> Missieven? 
-AMH -\> Toponiemen
-Erfgeo -\> Toponiemen
+De tools moeten altijd ook altijd duidelijk voorzien zijn met een analyse van hun data en implementatie. Zonder deze gegevens wordt van de beschouwer veel onderzoekswerk verwacht, als dit al mogelijk is. Het beschikbaar zijn van alle data en code los van de online applicatie is daarvoor noodzakelijk. Er is een aardig pakket vaardigheden nodig om deze bronnen te analyseren, maar dit is onvermijdbaar. Interfaces zijn niet zonder kennis van hun data en code correct te interpreteren. Zelfs dan is veel vertrouwen nodig. Het is voor individuele onderzoekers onmogelijk om te controleren of er op een betrouwbare manier met de constructie van de data is omgegaan. 
 
-Er is een cumulatief effect binnen de Digital Humanities dat moeilijk zichtbaar is elders in de geesteswetenschap. Waar traditionele geesteswetenschappen natuurlijk neigen om de breedte in te gaan, gaan de Digital Humanities de diepte in. Dit leidt in sommige gevallen tot positivistische of deterministische interpretaties. Aan de andere kant kunnen particulariteiten voorzien worden contextualisatie die voorheen onmogelijk was. Maar interpretatie die zich richten op literatuur en traditioneel bronnen onderzoek zijn tevens van groot belangrijk om de resultaten van deze digitale onderzoeken op waarde te schatten.
-
-Je komt er snel achter dat het onbegonnen werk is om de autoriteit van de data te achterhalen. In principe kun je er alleen maar op vertrouwen dat het goede data is.
+Digitale projecten kosten veel tijd en moeite, maar in tegenstelling tot traditionele onderzoeken is er mogelijkheid voor cumulatieve groei die zich uiteindelijk zal uitbetalen in complexere interpretaties. In veel onderzoeksgebieden ontstaan voor het eerst waardevolle databases die nu voorzien worden van hun eerste interfaces. Veel van deze eerste interfaces zijn ronduit slecht, maar door de groei van kennis en een iteratief proces zal dit steeds beter worden. De investering bepaald zich tevens ruimschoots terug in carrière perspectieven. Hoewel de geesteswetenschappelijk output van dergelijke onderzoeken wellicht niet veel groter zijn dan traditionele, maken hun beoefenaars zichzelf wel relevant voor de samenleving door de combinatie van nieuwe methodes met traditionele. Valorisatie van onderzoeksprojecten is daar slechts één dimensie van.

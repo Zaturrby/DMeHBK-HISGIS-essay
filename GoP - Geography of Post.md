@@ -1,5 +1,5 @@
 
-## GP - Geography of Post
+## GoP - Geography of Post
 
 Geography of the Post is een project dat de expansie van de VS in westelijke richting probeert te verklaren aan de hand van postkantoren. Hierdoor wordt een nieuw perspectief verschaft aan een verhaal dat anders gedomineerd wordt door goudzoekers, spoorwegarbeiders en indianen.[^1]
 
