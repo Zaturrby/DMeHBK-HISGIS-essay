@@ -3,11 +3,11 @@
 
 1. Abstract
 2. Inleiding
-3. Beoordelingskader
-3. 1. Visualisatie
+3. Kader
+3. 1. Data
 	2. Implementatie
 	2. Interpretatie 
-4. Toepassingen
+4. Toepassing
 5. Conclusie
 
 ---- 
