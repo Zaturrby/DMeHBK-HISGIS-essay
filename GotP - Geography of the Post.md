@@ -1,5 +1,5 @@
 
-## GoP - Geography of Post
+## GotP - Geography of the Post
 
 Geography of the Post is een project dat de expansie van de VS in westelijke richting probeert te verklaren aan de hand van postkantoren. Hierdoor wordt een nieuw perspectief verschaft aan een verhaal dat anders gedomineerd wordt door goudzoekers, spoorwegarbeiders en indianen.[^1]
 
@@ -19,7 +19,7 @@ Het design heeft voldoende aandacht gekregen. De interface voelt   intuïtief aa
 
 De project is verwerkt in een 287 pagina’s tellende dissertatie. [^4]Aangezien dit doorlezen ver buiten het bereik van dit essay valt volsta ik met een blogpost die de auteur rondom die project heeft geschreven.[^5] Hierin gebruikt hij de data van de postkantoren om een alternatief perspectief te geven op expansie van de Anglo-Amerikaanse cultuur westwaarts. De postkantoren zijn de eerste institutie die in afgelegen gebieden werd opgezet en laat zo duidelijk de vraag vanuit de gebieden zien en de reactie van de overheid daarop. De postkantoren bieden de ruimte om de simultane natuur van de verhalen van de goudzoeker, spoorwegen, soldaat en agrariër te vertellen. 
 
-Maar ook de contextualisatie met de evenementen die ter grondslag liggen aan de postkantoren krijgen aandacht met dit essay. Het ontstaan clusters van postkantoren in de Black Hills zegt op zichzelf niks van geweld dat hieraan vooraf is gegaan. South Dakota was een slagveld tussen de VS en de Lakota’s en Cheyennes. De postkantoren creëren ook negatieve ruimte wat vragen oproept. In de dissertatie zal dit ongetwijfeld uitgebreid onder de aandacht zijn gekomen. Hoewel de visualisatie in eerste instantie moeilijk is interpreteren door een leek, is het een bron van vragen die onderzoeker 287 pagina’s lang bezig kan houden.
+Maar ook de contextualisatie met de evenementen die ter grondslag liggen aan de postkantoren krijgen aandacht met dit essay. Het ontstaan clusters van postkantoren in de Black Hills zegt op zichzelf niks van geweld dat hieraan vooraf is gegaan. South Dakota was een slagveld tussen de VS en de Lakota’s en Cheyennes. De postkantoren creëren ook negatieve ruimte wat vragen oproept. In de dissertatie zal dit ongetwijfeld uitgebreid onder de aandacht zijn gekomen. Hoewel de visualisatie moeilijk is te interpreteren door een leek, is het een bron van vragen die onderzoeker 287 pagina’s lang bezig kan houden.
 ---- 
 
 [^1]:	[http://cameronblevins.org/gotp/][1]
