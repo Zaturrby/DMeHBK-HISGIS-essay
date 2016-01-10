@@ -19,7 +19,7 @@
 			<string>- Inleiding -.md</string>
 		</array>
 		<array>
-			<string>- Beoordelingskader -.md</string>
+			<string>- Kader -.md</string>
 		</array>
 		<array>
 			<string>Data.md</string>
@@ -47,6 +47,9 @@
 		</array>
 		<array>
 			<string>- Conclusie -.md</string>
+		</array>
+		<array>
+			<string>- Literatuur -.md</string>
 		</array>
 	</array>
 </dict>
