@@ -4,9 +4,9 @@ De Historical Dutch Asiatic Trade is een visualisatie die tracht de Boekhouding 
 
 ### Data
 
-De bronnen voor de huidige versie van deze visualisatie zijn allereerst de boekhouding van de Boekhouder Generaal van Batavia (BGB). Deze boekhouding is door het Huygens/ING gedigitaliseerd. Deze database bevat onder andere datums van vertrek en aankomst met bijbehorende locaties en de vervoerde goederen met hun waarde. Deze gegevens worden aangevuld met coördinaten uit de Atlas of Mutual Heritage. Met behulp van CLIWOC en historische kaarten is vervolgens een routenetwerk geconstrueerd waardoor mogelijk wordt schepen gesimuleerd van Nederland naar Azië te laten varen. De kaartlaag is geconstrueerd uit moderne geografie bruin gestileerd met historische namen daaroverheen. Alle data is in ruwe vorm beschikbaar op Github. De data zal in de toekomst wellicht ook toegankelijk zijn door middel van een API, want de applicatie zal deze zelf gebruiken.
+De bronnen voor de huidige versie van deze visualisatie zijn allereerst de boekhouding van de Boekhouder Generaal van Batavia (BGB). Deze boekhouding is door het Huygens/ING gedigitaliseerd. Deze database bevat onder andere datums van vertrek en aankomst met bijbehorende locaties en de vervoerde goederen met hun waarde. Deze gegevens worden aangevuld met coördinaten uit de Atlas of Mutual Heritage. Met behulp van CLIWOC en historische kaarten is vervolgens een routenetwerk geconstrueerd waardoor mogelijk wordt schepen gesimuleerd van Nederland naar Azië te laten varen. De kaartlaag is geconstrueerd uit moderne geografie bruin gestileerd met historische namen daaroverheen. Alle data is in ruwe vorm beschikbaar op Github.[^1] De data zal in de toekomst wellicht ook toegankelijk zijn door middel van een API, want de applicatie zal deze zelf gaan gebruiken.
 
-Er zijn nog vele extra bronnen beschikbaar die waardevolle aanvullende verdiepende perspectieven kunnen bieden. Er zijn een groot aantal missieven beschikbaar bij het Huygens/ING die een waardevol een rijk interpreteerbaar perspectief bieden door hun tekstuele natuur. Daarnaast kan er meer data uit het AMH worden gebruikt om de locaties verder te voorzien van informatie. Het is ook onze wens om bepalende gebeurtenissen bij te voegen in een laag om de app gemakkelijker begrijpbaar te maken. Er zijn tevens mogelijkheden tot verbreding van de data. Er is een digitalisatie project gaande om de Ommelandsvaart te digitaliseren en deze kan met weinig moeite worden toegevoegd aan de data. Ook is er data beschikbaar voor de slavenhandel door de Portugezen.[^1] Al deze data kan gemakkelijk in deze, of in een kopie, van deze kaart worden ingevoegd. Ongetwijfeld zullen er meer scheepsdatabases zijn of ontstaan waaraan een ruimtelijk perspectief waarde kan toevoegen.
+Er zijn nog vele extra bronnen beschikbaar die waardevolle aanvullende verdiepende perspectieven kunnen bieden. Er zijn een groot aantal missieven beschikbaar bij het Huygens/ING die een waardevol een rijk interpreteerbaar perspectief bieden door hun tekstuele natuur. Daarnaast kan er meer data uit het AMH worden gebruikt om de locaties verder te voorzien van informatie. Het is ook onze wens om bepalende gebeurtenissen bij te voegen in een laag om de app gemakkelijker begrijpbaar te maken. Er zijn tevens mogelijkheden tot verbreding van de data. Er is een digitalisatie project gaande om de Ommelandsvaart te digitaliseren en deze kan met weinig moeite worden toegevoegd aan de data. Ook is er data beschikbaar voor de slavenhandel door de Portugezen.[^2] Al deze data kan gemakkelijk in deze, of in een kopie, van deze kaart worden ingevoegd. Ongetwijfeld zullen er meer scheepsdatabases zijn of ontstaan waaraan een ruimtelijk perspectief waarde kan toevoegen.  
 
 ### Implementatie
 
@@ -20,7 +20,9 @@ Deze applicatie is vrijwel nog niet geïnterpreteerd. Erik is op dit moment bezi
 
 ---- 
 
-[^1]:	[http://www.slate.com/articles/life/the\_history\_of\_american\_slavery/2015/06/animated\_interactive\_of\_the\_history\_of\_the\_atlantic\_slave\_trade.html][1]
+[^1]:	.
+
+[^2]:	[http://www.slate.com/articles/life/the\_history\_of\_american\_slavery/2015/06/animated\_interactive\_of\_the\_history\_of\_the\_atlantic\_slave\_trade.html][1]
 
 	http://www.slavevoyages.org/
 
