@@ -14,22 +14,13 @@ Voor kaarten zijn er bovendien domein gerelateerde problemen. Projecties en ori�
 
 In de literatuur valt de term ‘Deep Map’ vaak. Mia Ridge, Don Lafreniere en Scott Nesbit hebben en piramide voorgesteld voorgesteld met het universum aan data, een ‘deep map’ en vervolgens een ‘spatial narrative’.[^8] Een kaart is echter altijd een gesloten systeem waarin de vragen, waarden, middelen en vaardigheden van de betrokken onderzoekers uitdrukking in vinden. Een “deep map” met vrije exploratie is altijd hierdoor begrenst. Daarnaast is er teveel data om in één kaart te visualiseren. In plaats van te streven naar een ‘Deep Map’ is het slimmer om te streven naar een goede opslag van historische geografische data zodat onderzoekers hun eigen kaarten gemakkelijk en bewust kunnen creëren. 
 
-### Voorbeelden van tools zonder onderwerp voor de Spatial Humanities
-
-Voor kaarten zijn er tools met GUI’s beschikbaar zoals Quantum GIS of de kaartlagen generator Tilemill, maar juist de tools zonder interfaces zoals Leaflet, PostGIS en D3 zijn waardevoller. Leaflet is een online mapping tool die het mogelijk maakt geografische data in de browser te visualiseren. PostGIS is een collectie van geografische formules voor de database PostgreSQL, waarmee ruimtelijke analyse algoritmisch kan worden uitgevoerd. Het heeft tevens een implementatie voor routing met pgRouting. Daarnaast is het algemenere D3 als visualisatie tool niet te vergeten. Onderliggende programma’s zoals Mapnik of GDAL interessant als een GUI van Tilemill niet voldoende mogelijkheden biedt. Hiervoor is wel aardig wat voorkennis of een stevige portie ingenuïteit gewenst, maar dat is uiteindelijk onontkoombaar. Postgis veronderstelt kennis van SQL of PL/pgSQL en Leaflet en D3 van HTML, CSS en Javascript. Een beetje shell scripting, versie controle, en kennis van datastructuren is tevens gewenst omdat geografische varianten daarop door bouwen.
-
-### Voorbeelden van tools met onderwerp voor de Spatial Humanities
-
-Specifiek voor historische geografie zijn toponiemen-data en  basiskaarten per tijdperiode zeer wenselijk. Onderzoek naar toponiemen kan een grote bijdrage leven aan de koppeling tussen teksten en kaarten. In een zekere zin wordt hier een ontologie met hedendaagse plaatsnamen toegepast op historische: een alternatieve vorm van distant reading.[^9] Het ErfGeo project is een mooi voorbeeld hiervoor.[^10] Basiskaarten zijn een ander opnieuw bruikbaar fenomeen. De selectie of constructie van correcte geografie en bebouwing kost veel tijd; terwijl een onderzoeker juist een abstracter verhaal binnen het kader van een tijd wil vertellen. Het georefereren van oude kaarten is een mooi begin, maar idealiter worden deze kaarten gevectoriseerd zodat ze algoritmisch vergelijkbaar worden. Binnen deze data kan een onderzoeker een abstracter narratief opzetten. De Romeinse kaart van Pelagius project is hier een goed voorbeeld van.[^11] In vergelijking met Orbis wordt ook al zichtbaar dat in deze kaarten een nieuw consensus gevonden moet worden. De kaart van Orbis verschilt namelijk aanzienlijk van Pelagius door de verschillende doelstellingen.[^12] Maar hoewel de kaartlagen een interessante opnieuw bruikbare tussenstap zijn, zijn ze waardebetrokken en ook hier moet de construerende data altijd beschikbaar zijn.
-
 ### Hergebruik
 
-Hierboven zijn de tools gecategoriseerd op tools met onderwerp en zonder. Tools zonder historisch onderwerp zijn over het algemeen waardevoller om bekend mee te zijn. Bij specifieke interfaces geld over het algemeen dat de maker iedere knop daarin al heeft geïnterpreteerd. Algemenere interfaces zijn wetenschappelijk beperkend, hoewel in sommige gevallen wel wenselijk. Om werkelijk nieuwe inzichten uit data te halen zullen nieuwe statistische methoden of visualisatietechnieken moeten worden toegepast. Algemene tools met GUI’s bieden daar enkele mogelijkheden toe, maar uiteindelijk is de vrijheid van expressie ongeëvenaard in programmeertalen. Met regelmaat opnieuw bruikbare tools bevinden zich dan ook vaak op dit niveau. 
+Voor hergebruik kun je een grof onderscheid maken tussen tools met onderwerp en zonder. Tools zonder historisch onderwerp zijn over het algemeen waardevoller om bekend mee te zijn door de veelzijdigheid van inzetbaarheid. Bij specifieke interfaces geld over het algemeen dat de maker iedere knop daarin al heeft geïnterpreteerd. Algemenere GUI’s zijn wetenschappelijk beperkend, hoewel in sommige gevallen wel wenselijk. Om werkelijk nieuwe inzichten uit data te halen zullen nieuwe statistische methoden of originele visualisatietechnieken moeten worden toegepast. Uiteindelijk is de vrijheid van expressie ongeëvenaard in programmeertalen. Met regelmaat opnieuw bruikbare tools bevinden zich dan ook vaak op dit niveau. 
 
-Deze worden vaak ook geoptimaliseerd en ingezet in het bedrijfsleven en open source tools op dit niveau zijn door commerciële belangen vaak ook stabieler. Als geesteswetenschappers hoeven wij niet zozeer deze tools te bouwen, optimalisatie is een taak voor ICT’ers. Dit is ook goed mogelijk, want als de input en output hetzelfde zijn is de taak relatief waardevrij. De toegevoegde waarde van interpretatieve methodologieën is dan te verwaarlozen. Maar wij moeten wel zelf onze visualisaties en interfaces opzetten. Onze taak moet liggen in deze multidimensionale tools te voorzien van rijke narratieven waarin meerdere stemmen hun uiting in vinden en er ruimte is voor ambiguïteit en onzekerheid.
+Deze worden vaak ook geoptimaliseerd en ingezet in het bedrijfsleven en Open Source tools op dit niveau zijn door commerciële belangen vaak ook stabieler. Als geesteswetenschappers hoeven wij niet zozeer deze tools te bouwen en ook optimalisatie hiervan is een taak voor ICT’ers. Maar wij moeten wel zelf onze visualisaties en interfaces opzetten. Onze taak moet liggen in deze multidimensionale tools te voorzien van rijke narratieven waarin meerdere stemmen hun uiting in vinden en er ruimte is voor ambiguïteit en onzekerheid.
 
-Als laatste zijn documentatie en gesystematiseerde versie controle van groot belang. Het is van belang het van belang om te kunnen achterhalen wie veranderingen maakt en op welke versie  van een tool of kaart een onderzoek is geschreven. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen scripts verwijderd hebben omdat de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^13]Documentatie van de code is ook essentieel, niet alleen om te beoordelen wie veranderingen heeft gemaakt, maar ook voor hergebruik of uitbreiding van de code. 
-
+Als laatste zijn documentatie en gesystematiseerde versie controle van groot belang. Het is van belangrijk om te kunnen achterhalen wie veranderingen maakt en op welke versie van een tool of kaart een onderzoek is geschreven. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen scripts verwijderd hebben omdat bijvoorbeeld de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9]Documentatie van de code is ook essentieel. Een korte introductie om de code te installeren en comments bij sterk waardebetrokken delen maakt de code veel toegankelijker. 
 ---- 
 
 [^1]:	Ben Fry -\> Proces
@@ -48,15 +39,7 @@ Als laatste zijn documentatie en gesystematiseerde versie controle van groot bel
 
 [^8]:	deep maps en design
 
-[^9]:	Morelli
-
-[^10]:	Erfgeo site of artikel -\> het toponiemen onderdeel
-
-[^11]:	Pelagius artikel
-
-[^12]:	Orbis artikel
-
-[^13]:	Git
+[^9]:	Git
 
 [1]:	http://www.visual-literacy.org/periodic_table/periodic_table.html
 [2]:	https://www.jasondavies.com/maps/transition/
