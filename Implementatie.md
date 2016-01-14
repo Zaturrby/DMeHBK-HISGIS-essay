@@ -20,27 +20,28 @@ Voor hergebruik kun je een grof onderscheid maken tussen tools met onderwerp en 
 
 Deze worden vaak ook geoptimaliseerd en ingezet in het bedrijfsleven en Open Source tools op dit niveau zijn door commerciële belangen vaak ook stabieler. Als geesteswetenschappers hoeven wij niet zozeer deze tools te bouwen en ook optimalisatie hiervan is een taak voor ICT’ers. Maar wij moeten wel zelf onze visualisaties en interfaces opzetten. Onze taak moet liggen in deze multidimensionale tools te voorzien van rijke narratieven waarin meerdere stemmen hun uiting in vinden en er ruimte is voor ambiguïteit en onzekerheid.
 
-Als laatste zijn documentatie en gesystematiseerde versie controle van groot belang. Het is van belangrijk om te kunnen achterhalen wie veranderingen maakt en op welke versie van een tool of kaart een onderzoek is geschreven. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen scripts verwijderd hebben omdat bijvoorbeeld de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9]Documentatie van de code is ook essentieel. Een korte introductie om de code te installeren en comments bij sterk waardebetrokken delen maakt de code veel toegankelijker. 
+Als laatste zijn documentatie en gesystematiseerde versie controle van groot belang. Het is van belangrijk om te kunnen achterhalen wie veranderingen maakt en op welke versie van een tool of kaart een onderzoek is geschreven. De scripts van die versie moeten worden gebruikt ter beoordeling, latere versies kunnen scripts verwijderd hebben omdat bijvoorbeeld de doelstelling van de interface is veranderd. De tool Git is hier een goed voorbeeld voor.[^9] Documentatie van de code is ook essentieel. Een korte introductie om de code te installeren en comments bij sterk waardebetrokken delen maakt de code veel toegankelijker. 
 ---- 
 
-[^1]:	Ben Fry -\> Proces
+[^1]:	Fry, Ben. *Visualizing Data.* Sebastopol: O'Reilly Media, 2008. Print.
 
-[^2]:	[http://www.visual-literacy.org/periodic\_table/periodic\_table.html][1]
+[^2]:	Lengler, Ralph and Martin J. Eppler. *Towards A Periodic Table of Visualization Methods for Management.* IASTED Proceedings of the Conference on Graphics and Visualization in Engineering. 2007, Clearwater, Florida, USA. Web. \<http://www.visual-literacy.org/periodic\_table/periodic\_table.pdf\>
 
-[^3]:	Metrokaart Londen
+[^3]:	Cartwright, William. *Beck's representation of London's Underground system: map or diagram?* Proceedings of the Geospatial Science Research 2 Symposium. Dec. 10-12 2012, Melbourne, Australia. Web. \<http://ceur-ws.org/Vol-1328/GSR2\_Cartwright.pdf\>
 
-[^4]:	Africa auteur
+[^4]:	Owens, J. B. *What Historians Want from GIS.* Web. 8-11-2015. \<http://www.esri.com/news/arcnews/summer07articles/what-historians-want.html 
+	\>
 
-[^5]:	Lying with Maps
+[^5]:	Mark Monmonier. *Lying with Maps.* Chicago: The University of Chicago Press, 1996. Print.
 
-[^6]:	[https://www.jasondavies.com/maps/transition/][2]
+[^6]:	Davies, Jason. *Map Projection Transitions.* Web. 14 Jan. 2016. \<[https://www.jasondavies.com/maps/transition/][1]\>
 
-[^7]:	[http://thetruesize.com][3]
+[^7]:	Talmage, James and Damon Maneice. *The True Size … .* Web. 16 Jan. 2016.\<[http://thetruesize.com][2]\>
 
-[^8]:	deep maps en design
+[^8]:	Ridge, Mia, Don Lafreniere en Scott Nesbit. “Creating Deep Maps and Spatial Narratives Through Design.” *International Journal of Humanities and Arts Computing* 7.1-2 (2013): 176–189. Print.
 
-[^9]:	Git
+[^9]:	Git:  A Free And Open Source Distributed Version Control System. 16 Jan. 2016. \<[https://git-scm.com/][3]\>
 
-[1]:	http://www.visual-literacy.org/periodic_table/periodic_table.html
-[2]:	https://www.jasondavies.com/maps/transition/
-[3]:	http://thetruesize.com/ "http://thetruesize.com"
+[1]:	https://www.jasondavies.com/maps/transition/
+[2]:	http://thetruesize.com/ "http://thetruesize.com"
+[3]:	https://git-scm.com/

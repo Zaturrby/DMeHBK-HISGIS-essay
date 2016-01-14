@@ -1,6 +1,6 @@
 ## DARE - Digital Atlas of the Roman Empire
 
-The Digital Atlas of the Roman Empire is een opnieuw bruikbare kaartlaag voor de Romeinse tijd. Hierop zijn plaatsen, wegen en voor een deel contemporaine geografie te zien voorzien van historische namen.
+The Digital Atlas of the Roman Empire is een opnieuw bruikbare kaartlaag voor de Romeinse tijd. Hierop zijn plaatsen, wegen en voor een deel contemporaine geografie te zien voorzien van historische namen.[^1]
 
 ### Data
 
@@ -18,3 +18,7 @@ Design heeft aandacht gekregen. De auteur heeft speciaal nagedacht over typograf
 
 Dit project had geen interpretatieve doelstellingen. Het doel was hergebruik. Dit lijkt ook behaald. Vergelijken met kaartlagen zoals Google Maps geeft deze kaartlaag een aanzienlijk betere representatie van de Romeinse tijd.
 ---- 
+
+[^1]:	Åhlfeldt, Johan. *Digital Atlas of the Roman Empire.* 2015. Web. 16 Apr 2016. \<[http://dare.ht.lu.se/][1]\>
+
+[1]:	http://dare.ht.lu.se/
