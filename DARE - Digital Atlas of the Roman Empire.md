@@ -4,11 +4,11 @@ The Digital Atlas of the Roman Empire is een opnieuw bruikbare kaartlaag voor de
 
 ### Data
 
-Ook deze kaart is gebaseerd grotendeels op de Barrington Atlas door middel van het Pleiades dataset. Deze dataset is uitgebreid met aanvullende informatie die handmatig uit de Barrington Atlas is geconstrueerd. De selectie van de data lijkt daarmee vooral ook te berusten op overwegingen van beschikbaarheid. Duidelijkheid hierover ontbreekt echter. In het bijgevoegde artikel wordt gesproken over data, maar is er geen specifieke analyse over welke databronnen precies ingevoegd zijn. Kijken naar Nederland is altijd een goede manier om te checken waar de geografie vandaan komt, een kaart die Flevoland toont is wat optimistisch voor een Romeinse kaart. De data waaruit de kaart is geconstrueerd is wel beschikbaar als dataset en API.
+Ook deze kaart is gebaseerd grotendeels op de Barrington Atlas door middel van het Pleiades en de Digital Atlas of Roman and Medieval Civilization datasets. Deze dataset is uitgebreid met aanvullende informatie die handmatig uit de Barrington Atlas is geconstrueerd. De selectie van de data lijkt daarmee vooral ook te berusten op overwegingen van beschikbaarheid. Duidelijkheid hierover ontbreekt echter. In het bijgevoegde artikel wordt gesproken over data, maar is er geen specifieke analyse over welke databronnen precies ingevoegd zijn. Kijken naar Nederland is altijd een goede manier om te checken waar de geografie vandaan komt, een kaart die Flevoland toont is wat optimistisch voor een Romeinse kaart. De data waaruit de kaart is geconstrueerd is wel beschikbaar als dataset en API.
 
 ### Implementatie
 
-De auteur meld in zijn artikel dat hij data heeft getransformeerd en dat hij data aan Pleiades heeft toegevoegd. In welke mate dit is gedaan en met welke methoden dit is gebeurt wordt echter niet vermeld. Daardoor kan niet goed ingeschat worden waar fouten in het materiaal zullen zitten. Een goede aanvulling op deze kaart zou de juxtapositie van het bronmateriaal (de Barrington Atlas) en de geconstrueerde kaart zijn. Zo kan een gebruiker inschatten welke transformaties op deze Atlas hebben plaatsgevonden. 
+De auteur meld in zijn artikel dat hij data heeft getransformeerd en dat hij data aan Pleiades heeft toegevoegd. In welke mate dit is gedaan en met welke methoden dit is gebeurt wordt echter niet vermeld. Daardoor kan niet goed ingeschat worden waar fouten in het materiaal zullen zitten. Een goede aanvulling op deze kaart zou de juxtapositie van het bronmateriaal (de Barrington Atlas) en de geconstrueerde kaart zijn. Zo kan een gebruiker inschatten welke transformaties op deze Atlas hebben plaatsgevonden.[^2]
 
 De waarde van deze kaart zit hem sterk in de technische implementatie. Den doelstelling van het project was om een basiskaart voor andere projecten te creëren. Maar ondanks deze wens is de broncode die gebruikt is voor de generatie niet beschikbaar. Het is dus de vraag of deze is gearchiveerd, versie controle is toegepast of dat de code enigszins is gedocumenteerd. De technische implementatie is niet zonder contact toetsbaar. Het gebruik van de kaart is echter wel bijzonder gemakkelijk, met weinig tot geen kennis deze worden herbruikt.
 
@@ -21,4 +21,7 @@ Dit project had geen interpretatieve doelstellingen. Het doel was hergebruik. Di
 
 [^1]:	Åhlfeldt, Johan. *Digital Atlas of the Roman Empire.* 2015. Web. 16 Apr 2016. \<[http://dare.ht.lu.se/][1]\>
 
+[^2]:	Åhlfeldt, Johan. *A digital map of the Roman Empire.* 19 sept 2015. Web. 16 Apr 2016. \<[http://pelagios.org/maps/greco-roman/about.html][2]\>
+
 [1]:	http://dare.ht.lu.se/
+[2]:	http://pelagios.org/maps/greco-roman/about.html
