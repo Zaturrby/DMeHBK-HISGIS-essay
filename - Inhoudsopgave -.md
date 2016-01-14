@@ -1,5 +1,4 @@
-
-# - Inhoudsopgave - 
+# - Inhoudsopgave -
 
 1. Abstract
 2. Inleiding
@@ -13,5 +12,4 @@
 	3. GotP - Geography of the Post
 	4. HDAT - Historical Dutch Asiatic Trade
 5. Conclusie
-
 ---- 

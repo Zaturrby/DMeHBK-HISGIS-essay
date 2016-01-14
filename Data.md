@@ -15,14 +15,13 @@ Bij geografie is dat bijzonder van belang. Kaarten worden gegeorefereerd en geve
 ### Hergebruik
 
 Datasets staan niet gelijk aan de implementatie. Visualisaties en tools zijn niet uitsluitend data. In de kantlijnen harmoniseert de onderzoeker de data verder en voegt daarmee een extra laag waarden toe. Het is belangrijk de de uiteindelijke data waarop de visualisatie is gebaseerd beschikbaar zijn los van de implementatie. De data moet open zijn en technisch gemakkelijk beschikbaar. Data archieven zoals DANS spelen hierbij een grote rol.[^6] Maar ook exploratieve interfaces bieden een belangrijke eerste verkenningsmogelijkheid van de data. Dit versnelt het onderzoeksproces. Application Programmer Interfaces (API) zijn tevens een goede oplossing om data te delen en beschikbaar te maken online, hoewel deze wel minder duurzaam zijn dan opslag zoals DANS. Bij API’s wordt de scheiding tussen data en implementatie ook waziger, maar is hierbij nog wel aanwezig. De archivering en verantwoordelijke omgang met data is essentieel voor de Digital Humanities. Door goed datamanagement is er een cumulatief effect mogelijk binnen de geesteswetenschappen.
-
 ---- 
 
-[^1]:	Capta
+[^1]:	Drucker, Johanna. “Humanities Approaches to Graphical Display.” *Digital Humanities Quarterly* 5.1 (2011). Web.
 
-[^2]:	nature vis
+[^2]:	-geen info-
 
-[^3]:	Artikel begin college reeks die deze problematiek aanspreekt.
+[^3]:	Zaagma, Gerben. “On Digital History.” *BMGN - Low Countries Historical Review* 128.4 (2013): 3-29. Print.
 
 [^4]:	CARS
 

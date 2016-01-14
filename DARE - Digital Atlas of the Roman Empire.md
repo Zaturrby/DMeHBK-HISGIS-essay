@@ -17,5 +17,4 @@ Design heeft aandacht gekregen. De auteur heeft speciaal nagedacht over typograf
 ### Interpretatie
 
 Dit project had geen interpretatieve doelstellingen. Het doel was hergebruik. Dit lijkt ook behaald. Vergelijken met kaartlagen zoals Google Maps geeft deze kaartlaag een aanzienlijk betere representatie van de Romeinse tijd.
-
 ---- 
