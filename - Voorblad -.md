@@ -1,4 +1,4 @@
-# Historische Geografische Interfaces
+# Digitale Humanities en Historische Geografische Interfaces
 
 ## Digitale Methoden en Historische Bronnenkritiek
 
