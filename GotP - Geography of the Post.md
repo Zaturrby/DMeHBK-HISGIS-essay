@@ -23,8 +23,7 @@ De contextualisatie met particulariteiten is bijzonder waardevol. De gebeurtenis
 In eerste instantie leek de visualisatie weinig diepgang te bevatten. Maar hoewel de visualisatie moeilijk is te interpreteren door een leek, is het een bron van vragen die onderzoeker 287 pagina’s lang bezig kan houden.
 ---- 
 
-[^1]:	Blevins, Cameron en Jason Heppler. *Geography of the Post: U.S. Post Offices in the Nineteenth-Century West.* Web. 16 Jan 2016. 
-	\<[http://cameronblevins.org/gotp/][1]\>
+[^1]:	Blevins, Cameron en Jason Heppler. *Geography of the Post: U.S. Post Offices in the Nineteenth-Century West.* Web. 16 Jan 2016. \<[http://cameronblevins.org/gotp/][1]\>
 
 [^2]:	Heppler, Jason. *Research and Design in Geography of the Post.* 10 okt 2014. Web. 16 Jan 2016. \<[http://jasonheppler.org/2014/10/30/research-design-in-geography-of-the-post/][2]\>
 

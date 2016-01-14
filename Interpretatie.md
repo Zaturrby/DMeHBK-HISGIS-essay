@@ -17,7 +17,7 @@ De vraag die daarmee opborrelt is of de geesteswetenschap wel naar universele ke
 
 [^2]:	Hate, Michael en Charlotte Klonk. *Art History: A critical introduction to its methods. *Manchester: Manchester University Press, 2006.
 
-[^3]:	Downs, Gregory P. en Scott Nesbit. Mapping Occupation. Web. 16 Jan. 2016. \<[https://www.mappingoccupation.org/][1]\>
+[^3]:	Downs, Gregory P. en Scott Nesbit. *Mapping Occupation.* Web. 16 Jan. 2016. \<[https://www.mappingoccupation.org/][1]\>
 
 [^4]:	Zaagma, Gerben. “On Digital History.” *BMGN - Low Countries Historical Review* 128.4 (2013): 3-29. Print.
 

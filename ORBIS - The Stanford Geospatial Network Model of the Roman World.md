@@ -25,9 +25,9 @@ Deze deterministische interpretatie van het Romeinse Rijk roept vragen op. Conte
 
 [^1]:	Scheidel, Walter en Elijah Meeks. *ORBIS: The Stanford Geospatial Network Model of the Roman World.* Web. 16 Jan 2016. \<[http://orbis.stanford.edu/][1]\>
 
-[^2]:	Meeks, Elijah.  ORBIS v2. Web. 16 Jan 2016. \<[https://github.com/emeeks/orbis\_v2][2]\>
+[^2]:	Meeks, Elijah.  *ORBIS v2.* Web. 16 Jan 2016. \<[https://github.com/emeeks/orbis\_v2][2]\>
 
-[^3]:	Meeks, Elijah. Git Ignore. Web. 16 Jan 2016. \<[https://github.com/emeeks/orbis\_v2/blob/master/.gitignore][3]\>
+[^3]:	Meeks, Elijah. *Git Ignore.* Web. 16 Jan 2016. \<[https://github.com/emeeks/orbis\_v2/blob/master/.gitignore][3]\>
 
 [^4]:	Scheidel, Walter. “The Shape of the Roman World.” *Journal of Roman Archaeology* 27 (2014): 7:33. Print.
 

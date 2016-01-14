@@ -9,4 +9,4 @@ Het is daarnaast ook de vraag of enig van deze interfaces zelfstandig bijdraagt 
 Om het beoordelingskader voor de comparatieve deel van het essay te construeren is het eerste deel van deze tekst gewijd aan de methodologische vraagstukken. Deze vraagstukken rondom de Digitale Geesteswetenschappen worden ingekleurd met nadruk op de voorbeelden uit de Spatial Humanities. In het tweede deel zullen de hiervoor geïntroduceerde tools verder beschreven worden, vergeleken en beoordeeld.
 ---- 
 
-[^1]:	Staley, David J. ”Computers, Visualization, and the Representation of History.” *Historically Speaking*. Apr. 2003: 40-42. Print.
+[^1]:	Staley, David J. ”Computers, Visualization, and the Representation of History.” *Historically Speaking*. Apr 2003: 40-42. Print.

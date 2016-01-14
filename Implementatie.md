@@ -25,23 +25,22 @@ Als laatste zijn documentatie en gesystematiseerde versie controle van groot bel
 
 [^1]:	Fry, Ben. *Visualizing Data.* Sebastopol: O'Reilly Media, 2008. Print.
 
-[^2]:	Lengler, Ralph and Martin J. Eppler. *Towards A Periodic Table of Visualization Methods for Management.* IASTED Proceedings of the Conference on Graphics and Visualization in Engineering. 2007, Clearwater, Florida, USA. Web. \<http://www.visual-literacy.org/periodic\_table/periodic\_table.pdf\>
+[^2]:	Lengler, Ralph and Martin J. Eppler. *Towards A Periodic Table of Visualization Methods for Management.* IASTED Proceedings of the Conference on Graphics and Visualization in Engineering. 2007, Clearwater, Florida, USA. Web. \<[http://www.visual-literacy.org/periodic\_table/periodic\_table.pdf]()\>
 
-[^3]:	Cartwright, William. *Beck's representation of London's Underground system: map or diagram?* Proceedings of the Geospatial Science Research 2 Symposium. Dec. 10-12 2012, Melbourne, Australia. Web. \<http://ceur-ws.org/Vol-1328/GSR2\_Cartwright.pdf\>
+[^3]:	Cartwright, William. *Beck's representation of London's Underground system: map or diagram?* Proceedings of the Geospatial Science Research 2 Symposium. Dec. 10-12 2012, Melbourne, Australia. Web. \<[http://ceur-ws.org/Vol-1328/GSR2\_Cartwright.pdf]()\>
 
-[^4]:	Owens, J. B. *What Historians Want from GIS.* Web. 8-11-2015. \<http://www.esri.com/news/arcnews/summer07articles/what-historians-want.html 
-	\>
+[^4]:	Owens, J. B. *What Historians Want from GIS.* Web. 8-11-2015. \<[http://www.esri.com/news/arcnews/summer07articles/what-historians-want.html]()\>
 
 [^5]:	Mark Monmonier. *Lying with Maps.* Chicago: The University of Chicago Press, 1996. Print.
 
-[^6]:	Davies, Jason. *Map Projection Transitions.* Web. 14 Jan. 2016. \<[https://www.jasondavies.com/maps/transition/][1]\>
+[^6]:	Davies, Jason. *Map Projection Transitions.* Web. 14 Jan. 2016. \<[https://www.jasondavies.com/maps/transition/][4]\>
 
-[^7]:	Talmage, James and Damon Maneice. *The True Size … .* Web. 16 Jan. 2016.\<[http://thetruesize.com][2]\>
+[^7]:	Talmage, James and Damon Maneice. *The True Size … .* Web. 16 Jan. 2016.\<[http://thetruesize.com][5]\>
 
 [^8]:	Ridge, Mia, Don Lafreniere en Scott Nesbit. “Creating Deep Maps and Spatial Narratives Through Design.” *International Journal of Humanities and Arts Computing* 7.1-2 (2013): 176–189. Print.
 
-[^9]:	Git:  A Free And Open Source Distributed Version Control System. 16 Jan. 2016. \<[https://git-scm.com/][3]\>
+[^9]:	*Git:  A Free And Open Source Distributed Version Control System.* 16 Jan. 2016. \<[https://git-scm.com/][6]\>
 
-[1]:	https://www.jasondavies.com/maps/transition/
-[2]:	http://thetruesize.com/ "http://thetruesize.com"
-[3]:	https://git-scm.com/
+[4]:	https://www.jasondavies.com/maps/transition/
+[5]:	http://thetruesize.com/ "http://thetruesize.com"
+[6]:	https://git-scm.com/

@@ -19,7 +19,7 @@ Een ander belangrijk punt van de applicatie is dat hij sterk in ontwikkeling is.
 Deze applicatie is vrijwel nog niet geïnterpreteerd. Erik is op dit moment bezig met een scriptie over onderwerp te schrijven. De evaluatie van database en interface nemen daarbinnen een plek in. Onze verwachting is dat metname de goederen meer inzicht zullen gaan bieden. Het routenetwerk is relatief simpel zodat een netwerkanalyse vooral open deuren gaat opleveren. Wellicht zit hierin voor de interne Aziatische handel wel betekenis. Uitbreiding van de visualisatie methoden en fatsoenlijk literatuur onderzoek zijn noodzakelijk om meer hierover te zeggen. Interne relaties tussen schepen zijn al wel goed zichtbaar door de focus op een dynamische visualisatie, maar hun betekenis behoeft verder onderzoek. De bron kan al wel binnen enkele minuten op waarde worden geschat en bied de interface een interessante ingang voor exploratie.
 ---- 
 
-[^1]:	Huygens/ING. Boekhouder-Generaal Batavia. 2013. Web. 16 Jan 2016. 
+[^1]:	Huygens/ING. *Boekhouder-Generaal Batavia. 2013.* Web. 16 Jan 2016. 
 	\<[http://bgb.huygens.knaw.nl/][1]\>
 
 [^2]:	AMH Projectgroep. *Atlas of Mutual Herritage.* Web. 16 Jan 2016. \<[http://www.atlasofmutualheritage.nl/en/][2]\>
