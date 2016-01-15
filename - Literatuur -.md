@@ -61,7 +61,7 @@ Scheidel, Walter. “The Shape of the Roman World.” *Journal of Roman Archaeol
 
 Zaagma, Gerben. “On Digital History.” *BMGN - Low Countries Historical Review* 128.4 (2013): 3-29. Print.
 
-Zummeren, Erik en Robert-Jan Korteschiel. Historical Dutch Asiatic Trade. 2016. Web. 16 Jan 2016. \<[https://github.com/hdat][21]\>
+Zummeren, Erik en Robert-Jan Korteschiel. *Historical Dutch Asiatic Trade.* 2016. Web. 16 Jan 2016. \<[https://github.com/hdat][21]\>
 
 [1]:	http://dare.ht.lu.se/
 [2]:	http://pelagios.org/maps/greco-roman/about.html
